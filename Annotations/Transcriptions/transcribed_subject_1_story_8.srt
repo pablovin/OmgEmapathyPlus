@@ -1,0 +1,330 @@
+﻿1
+00:00:00,000 --> 00:00:00,820
+[S] Hey, how you doing?
+
+2
+00:00:00,820 --> 00:00:01,480
+[L] I'm great
+
+3
+00:00:01,480 --> 00:00:02,840
+[S] How was your weekend?
+
+4
+00:00:02,840 --> 00:00:03,940
+[L] Nice weekend!
+
+5
+00:00:04,200 --> 00:00:06,240
+[S] Uh, my weekend was nice too.
+
+6
+00:00:06,240 --> 00:00:08,840
+[S] I'll tell you something, I went to Norway
+
+7
+00:00:08,840 --> 00:00:09,240
+[L] Uh-huh
+
+8
+00:00:09,320 --> 00:00:11,040
+[S] Uh, have you been traveling by the way?
+
+9
+00:00:11,040 --> 00:00:11,480
+[L] No
+[S] Uh, have you been traveling by the way?
+
+10
+00:00:11,720 --> 00:00:17,800
+[S] No? Well, it's kinda of cold this period I wanted to visit a friend he went out to study in Tromsø
+
+11
+00:00:17,800 --> 00:00:17,840
+[L] Uh-huh
+[S] No? Well, it's kinda of cold this period I wanted to visit a friend he went out to study in Tromsø
+
+12
+00:00:17,840 --> 00:00:18,480
+[S] Which is in the north, it's north part of the country
+[L] Uh-huh
+
+13
+00:00:18,480 --> 00:00:18,960
+[S] Which is in the north, it's north part of the country
+
+14
+00:00:18,960 --> 00:00:19,600
+[L] Uh-huh
+[S] Which is in the north, it's north part of the country
+
+15
+00:00:19,600 --> 00:00:20,960
+[S] Which is in the north, it's north part of the country
+
+16
+00:00:20,960 --> 00:00:21,500
+[S] <breath>
+
+17
+00:00:21,500 --> 00:00:25,280
+[S] Uh, it was really nice, so spike of cold temperatures we had a lot of fun
+
+18
+00:00:25,280 --> 00:00:29,980
+[S] Everything is really expensive there, so really choose maybe having a beer or going out for dinner.
+
+19
+00:00:29,980 --> 00:00:30,720
+[L] Hmm
+[S] Everything is really expensive there, so really choose maybe having a beer or going out for dinner.
+
+20
+00:00:30,720 --> 00:00:31,160
+[S] It's kinda a lot for a student
+[S] Everything is really expensive there, so really choose maybe having a beer or going out for dinner.
+
+21
+00:00:31,160 --> 00:00:33,720
+[S] It's kinda a lot for a student
+
+22
+00:00:33,720 --> 00:00:34,200
+[L] Uh-huh
+
+23
+00:00:34,200 --> 00:00:42,380
+[S] Uh, but we had fun (also point?) he told me you know about this kinda of food they have is a fish called.. I forgot the name
+
+24
+00:00:42,380 --> 00:00:46,880
+[S] Middle language something like <inaudible> which is some kinda of <inaudible> or fish
+
+25
+00:00:46,880 --> 00:00:47,220
+[L] Uh-huh
+
+26
+00:00:47,220 --> 00:00:50,220
+[S] Which is supposed to be the smelliest food in the world
+
+27
+00:00:50,220 --> 00:00:50,460
+[L] Um
+
+28
+00:00:50,460 --> 00:00:51,560
+[S] <breath> Have you heard it?
+
+29
+00:00:51,560 --> 00:00:52,360
+[S] <breath> No?
+
+30
+00:00:52,360 --> 00:00:53,870
+[L] Ah, I have heard it, I have heard it
+
+31
+00:00:53,870 --> 00:01:02,720
+[S] Yeah? So, yes, is this kinda of, you know..fish fermented with salt which prevents it from..you know rotting they says it's really smelly and..
+
+32
+00:01:02,720 --> 00:01:03,340
+[L] Hm
+
+33
+00:01:03,340 --> 00:01:12,920
+[S] But then he told me that is delicious, right? And..it's like..ok, I don't know, so I checked in the internet there were different versions about it  some people saying it's great, some people saying it's bad
+
+34
+00:01:12,920 --> 00:01:13,650
+[S] <breath>
+
+35
+00:01:13,650 --> 00:01:14,640
+[S] So then we'd meal that and then, hmm she said ok the guy who can finish, you know, this fish wins..
+
+36
+00:01:14,640 --> 00:01:14,960
+[L] Yeah
+[S] So then we'd meal that and then, hmm she said ok the guy who can finish, you know, this fish wins..
+
+37
+00:01:14,960 --> 00:01:20,040
+[S] So then we'd meal that and then, hmm she said ok the guy who can finish, you know, this fish wins..
+
+38
+00:01:20,040 --> 00:01:20,560
+[L] Uh-huh
+[S] So then we'd meal that and then, hmm she said ok the guy who can finish, you know, this fish wins..
+
+39
+00:01:20,560 --> 00:01:20,720
+[S] So then we'd meal that and then, hmm she said ok the guy who can finish, you know, this fish wins..
+
+40
+00:01:20,760 --> 00:01:29,220
+[S] <inaudible> ok let's do it I was curious, I really like trying different things, I tried the smelly tofu in China for example, and it was really smelly and really disgusting <breath>
+
+41
+00:01:29,220 --> 00:01:30,080
+[L] <laughs>
+[S] <inaudible> ok let's do it I was curious, I really like trying different things, I tried the smelly tofu in China for example, and it was really smelly and really disgusting <breath>
+
+42
+00:01:30,080 --> 00:01:30,350
+[S] <inaudible> ok let's do it I was curious, I really like trying different things, I tried the smelly tofu in China for example, and it was really smelly and really disgusting <breath>
+
+43
+00:01:30,350 --> 00:01:36,040
+[S] Um, so we went to this place and got it and this thing is so smelly that you should eat outdoors
+
+44
+00:01:36,040 --> 00:01:36,500
+[L] Yeah
+
+45
+00:01:36,500 --> 00:01:44,520
+[S] <inaudible> whenever you offer to someone or whenever you order it, you are not supposed to eat indoors because I guess your house can stink for days so..
+
+46
+00:01:44,520 --> 00:01:48,100
+[S] Just went to the, you know, out to this garden that she got
+
+47
+00:01:48,100 --> 00:01:48,640
+[L] Uh-huh
+[S] Just went to the, you know, out to this garden that she got
+
+48
+00:01:48,640 --> 00:01:50,510
+[S] So, she got a beautiful house, by the way, so we went there and..alright..so..
+
+49
+00:01:50,510 --> 00:01:51,020
+[L] Yeah?
+[S] So, she got a beautiful house, by the way, so we went there and..alright..so..
+
+50
+00:01:51,020 --> 00:01:54,240
+[S] So, she got a beautiful house, by the way, so we went there and..alright..so..
+
+51
+00:01:54,240 --> 00:01:58,880
+[S] Already, it was already challenging to open this can, you know..it's just like.. tuna can
+
+52
+00:01:58,880 --> 00:02:05,440
+[S] I openned.. oh my god.. that's really.. was really.. intense smell, you know.. this raw..
+
+53
+00:02:05,730 --> 00:02:14,100
+[S] Fermented fish, it's like.. oh my god.. it's really really <breath> disgusting, but he was like saying come on man if you try it, you will see, you will love it
+
+54
+00:02:14,100 --> 00:02:15,420
+[S] I was like.. alright
+
+55
+00:02:15,420 --> 00:02:23,320
+[S] <breath> So we.. what we really decided to also take the whole experience.. you know? Just kinda of.. you know.. to see around the reactions to it
+
+56
+00:02:23,320 --> 00:02:23,800
+[L] Uh-huh
+[S] <breath> So we.. what we really decided to also take the whole experience.. you know? Just kinda of.. you know.. to see around the reactions to it
+
+57
+00:02:23,800 --> 00:02:23,870
+[S] <breath> Hmm.. the <inaudible> as soon I saw his face really.. you know.. disgusted.. I realized that he will.. he will like it so.. it wasn't like it was really.. you know.. delicious, supposed to be
+[S] <breath> So we.. what we really decided to also take the whole experience.. you know? Just kinda of.. you know.. to see around the reactions to it
+
+58
+00:02:23,870 --> 00:02:35,200
+[S] <breath> Hmm.. the <inaudible> as soon I saw his face really.. you know.. disgusted.. I realized that he will.. he will like it so.. it wasn't like it was really.. you know.. delicious, supposed to be
+
+59
+00:02:35,200 --> 00:02:36,110
+[L] Hmm
+[S] <breath> Hmm.. the <inaudible> as soon I saw his face really.. you know.. disgusted.. I realized that he will.. he will like it so.. it wasn't like it was really.. you know.. delicious, supposed to be
+
+60
+00:02:36,120 --> 00:02:39,360
+[S] <breath> Um.. but then yeah, I didn't want to lose the bet
+
+61
+00:02:39,360 --> 00:02:39,480
+[L] Hmm
+[S] <breath> Um.. but then yeah, I didn't want to lose the bet
+
+62
+00:02:39,480 --> 00:02:39,900
+[L] Hmm
+
+63
+00:02:39,900 --> 00:02:42,520
+[S] Um.. just said ok, I have to do it
+
+64
+00:02:42,520 --> 00:02:44,620
+[S] So it was similar like I living in China.. you know it's just supposed to like.. oh my god
+
+65
+00:02:44,620 --> 00:02:45,060
+[L] Uh-huh
+[S] So it was similar like I living in China.. you know it's just supposed to like.. oh my god
+
+66
+00:02:45,060 --> 00:02:46,110
+[S] So it was similar like I living in China.. you know it's just supposed to like.. oh my god
+
+67
+00:02:46,110 --> 00:02:52,920
+[S] But I went for it <breath> you know.. I don't really like fish, in general, so for me it was double challenge
+
+68
+00:02:52,920 --> 00:02:57,070
+[S] All this kind of.. you know.. raw fish that they eat for example in the Netherlands
+
+69
+00:02:57,070 --> 00:03:02,480
+[S] <breath> But yeah.. So I took it, I just.. closed my eyes
+
+70
+00:03:02,480 --> 00:03:11,180
+[S] And I went for it, and I.. wow.. it's.. I can't due describe how bad that was..
+
+71
+00:03:11,180 --> 00:03:22,720
+[S] You know.. the.. from the flavor to the texture.. this consistency, you know.. a bit <inaudible> I really hated it and I couldn't finish it <breath>
+
+72
+00:03:22,720 --> 00:03:31,780
+[S] But he finished it, I don't know how he did it, I.. you know.. could see his face like.. oh my.. crying and all this kinda of weird expressions <breath>
+
+73
+00:03:31,820 --> 00:03:35,000
+[S] But he finished it and then he told me, actually it's not that bad
+
+74
+00:03:35,000 --> 00:03:35,040
+[S] <laughs>
+
+75
+00:03:35,040 --> 00:03:36,240
+[L] <laughs>
+[S] <laughs>
+
+76
+00:03:36,240 --> 00:03:36,260
+[S] So yeah, I don't think I would have this thing again but it was.. you know, a funny memory from.. from this trip
+[S] <laughs>
+
+77
+00:03:36,260 --> 00:03:41,160
+[S] So yeah, I don't think I would have this thing again but it was.. you know, a funny memory from.. from this trip
+
+78
+00:03:41,160 --> 00:03:43,160
+[L] Uh-huh
+

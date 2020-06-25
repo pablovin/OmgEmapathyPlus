@@ -1,0 +1,240 @@
+﻿1
+00:00:00,000 --> 00:00:01,120
+[L] Hello [S] How are you?
+
+2
+00:00:01,120 --> 00:00:04,160
+[L] Fine, great, thanks for asking [S] Yeah, good, cool, cool, cool, yeah, sure
+
+3
+00:00:04,160 --> 00:00:05,600
+[L] And you? [S] I'm okay
+
+4
+00:00:05,600 --> 00:00:09,740
+[L] Nice [S] Yeah, yeah, I was, just something kept me up, I was thinking
+
+5
+00:00:09,740 --> 00:00:14,440
+[S] About something that happened in the past, I mean you.. how was your high school? you like it?
+
+6
+00:00:14,440 --> 00:00:18,180
+[L] Yes, I had a great time there, a lot of friends that I made [S] Yeah, was nice? Really?
+
+7
+00:00:18,180 --> 00:00:21,000
+[L] And I cultivated through my life, so nice [S] Yeah that's amazing
+
+8
+00:00:21,000 --> 00:00:25,440
+[S] Yeah really, I mean everyone I talk to it's really 50 50, some people really like it, some people really hate it
+
+9
+00:00:25,440 --> 00:00:27,440
+[S] They really had bad experiences there [L] Oh
+
+10
+00:00:27,440 --> 00:00:31,560
+[S] And for me I.. was a weird experience I.. I move in
+
+11
+00:00:31,560 --> 00:00:35,520
+[S] Uh in between so, in the second year of high school I started in a new school
+
+12
+00:00:35,520 --> 00:00:39,700
+[S] I don't know, I was the new guy, I was not knowing anyone before
+
+13
+00:00:39,700 --> 00:00:44,700
+[S] And was kind of left out of everything, was not connecting with anyone else, right? [L] Uh-huh
+
+14
+00:00:44,700 --> 00:00:48,500
+[S] And I was not the best student, I mean I was always the average guy
+
+15
+00:00:48,500 --> 00:00:52,680
+[S] Who always did the enough to pass and that's all, you know? [L] Uh-huh
+
+16
+00:00:52,680 --> 00:00:55,480
+[S] Er.. this together with this loneliness
+
+17
+00:00:55,480 --> 00:00:59,520
+[S] And the, the teachers on this school they were so bad, they were really
+
+18
+00:00:59,520 --> 00:01:01,960
+[S] These old people
+
+19
+00:01:01,960 --> 00:01:06,840
+[S] Not, not, not, that, not that because they're old but, they had this, this um
+
+20
+00:01:06,840 --> 00:01:11,560
+[S] Old didactic way that I am the teacher, I know everything, you shut up
+
+21
+00:01:11,560 --> 00:01:15,360
+[S] And.. but they don't have the didactic of how to pass this knowledge to people, you know?
+
+22
+00:01:15,360 --> 00:01:18,020
+[L] Like basically I speak and you listen [S] Exactly, something like that
+
+23
+00:01:18,020 --> 00:01:22,560
+[S] This was ridiculous, um never, never attracted in me, and that makes me I mean not doing so well
+
+24
+00:01:22,560 --> 00:01:25,960
+[S] But then everything changed when a new teacher arrived, and was a history teacher
+
+25
+00:01:25,960 --> 00:01:32,000
+[S] And he was super good, he was a young guy, very dynamic, very easy to talk and
+
+26
+00:01:32,000 --> 00:01:38,420
+[S] Then the history class became interesting. history was always boring to me, it was a lot of names, a lot of numbers to memorize [L] <laughs>
+
+27
+00:01:38,420 --> 00:01:41,580
+[S] Dates and so on. And became interesting for me.
+
+28
+00:01:41,580 --> 00:01:47,760
+[S] So.. I thought I was okay with it, but I did the first test, the first exam, and I failed
+
+29
+00:01:47,760 --> 00:01:50,200
+[S] And it's like yeah wow, that's bad [L] Hmm <laughs>
+
+30
+00:01:50,200 --> 00:01:54,680
+[S] And then he came talk to me, that never happened before, that a, a teacher come talk to me, you know, right?
+
+31
+00:01:54,680 --> 00:02:01,300
+[S] And he came talk to me and ask yeah what's happening? You're always there in my class, you're always paying attention
+
+32
+00:02:01,300 --> 00:02:08,120
+[S] And then we talked a lot and he helped me a lot, understanding what, what I was doing wrong, how I was studying wrong
+
+33
+00:02:08,120 --> 00:02:13,420
+[S] You know? And then went on, and I was getting more confident with it um..
+
+34
+00:02:13,420 --> 00:02:16,440
+[S] Until I had the second test, and I failed again [L] <laughs>
+
+35
+00:02:16,440 --> 00:02:22,660
+[S] Er like wow, something really wrong, and then I start to feel bad, like really like wow how can I do that, I mean [L] <laughs>
+
+36
+00:02:22,660 --> 00:02:26,920
+[L] Basically were you better with the old style teachers than this new stuff [L] Yeah but, I don't know maybe
+
+37
+00:02:26,920 --> 00:02:28,640
+[S] Maybe they didn't care enough, I don't know [L] <laughs>
+
+38
+00:02:28,640 --> 00:02:33,320
+[S] But I was really feeling bad, and then I decided okay yeah, I will have to make it better for the final exam
+
+39
+00:02:33,320 --> 00:02:37,760
+[S] And then I start to study like crazy, really study, study, study. Really, really a lot.
+
+40
+00:02:37,760 --> 00:02:42,740
+[S] But.. by the last day before the exam I had heavy panic attacks
+
+41
+00:02:42,740 --> 00:02:46,560
+[S] I was really, really shaking, and really, really nervous <inaudible>
+
+42
+00:02:46,560 --> 00:02:51,520
+[S] And then.. I said yeah no, I cannot fail this exam, I mean
+
+43
+00:02:51,520 --> 00:02:54,700
+[S] It's my last exam, I have to pass it otherwise I fail the, the class
+
+44
+00:02:54,700 --> 00:02:59,320
+[S] Then I decide to create some, some stripes of papers with the names and dates on and
+
+45
+00:02:59,320 --> 00:03:05,280
+[S] Cheat on exam, you know? And this was the plan, an.. awful plan sure [L] <laughs>
+
+46
+00:03:05,280 --> 00:03:10,860
+[S] And during the day of the exam, I was there and I used my, my cheat folds and [L] <laughs>
+
+47
+00:03:10,860 --> 00:03:15,080
+[S] I actually pass the exam but when I hand in the test
+
+48
+00:03:15,080 --> 00:03:19,440
+[S] I was feeling so ashamed, I was feeling so bad, like I..
+
+49
+00:03:19,440 --> 00:03:22,480
+[S] I.. I don't know, I cheated on me
+
+50
+00:03:22,480 --> 00:03:27,520
+[S] And I break the trust that this teacher put on me, after he talked to me so, so, so much
+
+51
+00:03:27,520 --> 00:03:30,500
+[S] I was feeling so disgusted with myself, you know?
+
+52
+00:03:30,500 --> 00:03:33,920
+[S] In the end I pass the exam, and I pass the class
+
+53
+00:03:33,920 --> 00:03:36,700
+[S] But I carry this with me, this milestone of
+
+54
+00:03:36,700 --> 00:03:40,560
+[S] Wow that's really the low, lowest you can achieve, you know?
+
+55
+00:03:40,560 --> 00:03:42,280
+[S] Was really, really a bad, bad feeling
+
+56
+00:03:42,280 --> 00:03:45,600
+[S] And after that thing I mean, of course makes me a better person after that
+
+57
+00:03:45,600 --> 00:03:48,600
+[S] I really realized wow that's really not the direction I should go
+
+58
+00:03:48,600 --> 00:03:52,600
+[L] Did you tell to the teacher that you <inaudible>? [S] No, I never told him, I was really feeling ashamed
+
+59
+00:03:52,600 --> 00:03:55,140
+[S] But.. yeah was really like, wow that's bad
+
+60
+00:03:55,140 --> 00:03:57,140
+[S] That's really bad, yeah [L] Uh-huh
+

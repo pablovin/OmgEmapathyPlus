@@ -1,0 +1,184 @@
+﻿1
+00:00:00,000 --> 00:00:00,700
+[S] hi, how are you?
+[L] hi
+
+2
+00:00:00,700 --> 00:00:01,750
+[S] hi, how are you?
+
+3
+00:00:01,750 --> 00:00:02,120
+[L] good
+
+4
+00:00:02,120 --> 00:00:02,500
+[S] yeah?
+
+5
+00:00:02,500 --> 00:00:02,720
+[L] fine, how are you?
+
+6
+00:00:02,720 --> 00:00:03,270
+[S] cool cool I'm ok <inaudible>
+[L] fine, how are you?
+
+7
+00:00:03,270 --> 00:00:05,750
+[S] cool cool I'm ok <inaudible>
+
+8
+00:00:05,750 --> 00:00:12,920
+[S] yeah yeah uh man I had such a interesting weekend just remembering stuff from the past you know when was really
+
+9
+00:00:12,920 --> 00:00:17,820
+[S] reminded my time in high school and stuff and do you like your time in high school?
+
+10
+00:00:18,250 --> 00:00:19,420
+[S] yeah somehow not all of it
+
+11
+00:00:19,420 --> 00:00:20,350
+[S] yeah? not all of it I think no one likes it really right? there is always something... there is always something a problem or so
+[S] yeah somehow not all of it
+
+12
+00:00:20,350 --> 00:00:26,100
+[S] yeah? not all of it I think no one likes it really right? there is always something... there is always something a problem or so
+
+13
+00:00:26,100 --> 00:00:32,450
+[S] yeah I remember I was... I moved a lot from city to city and then I moved in the middle of high school
+
+14
+00:00:32,450 --> 00:00:40,050
+[S] and yeah you know new guy arrived, no one knows you, you know no one so it's kind of you know lonely and
+
+15
+00:00:40,050 --> 00:00:49,950
+[S] not connecting to everyone, to anyone in particular you know was weird and I mean I was not a good student I was really bad I mean not really bad I never failed
+
+16
+00:00:49,950 --> 00:00:58,850
+[S] but I didn't like to study I just did the minimum to pass jut to get out of there as soon as possible and yeah I really
+
+17
+00:00:58,850 --> 00:01:09,020
+[S] dislike also the teachers they were so bad they were these very old teachers with this.. not didatic at all just reading through..
+
+18
+00:01:09,020 --> 00:01:18,620
+[S] slides and stuff like that and just writing stuff but without any passion for it you know just mechanical stuff and this was not helping at all <inaudible>
+
+19
+00:01:18,620 --> 00:01:28,500
+[S] bad bad thing pretty bad thing uh.. but yeah there is.. at some point I met this teacher from history and I never liked history
+
+20
+00:01:29,220 --> 00:01:36,320
+[S] was kind of boring was just dates and names of people that you had to memorize otherwise you don't pass the test etc
+
+21
+00:01:36,320 --> 00:01:44,400
+[S] but this guy was different this guy was a new teacher he was quite young, he was very cool, very fresh, very full of life and
+
+22
+00:01:44,400 --> 00:01:54,150
+[S] he passed it to the students you know he was very dynamic it was a very different way to teach the course and although I didn't like history I
+
+23
+00:01:54,150 --> 00:02:02,300
+[S] start to pay attention more on the lecture you know? and then come the time for making my first exam
+
+24
+00:02:02,520 --> 00:02:03,920
+[S] and I failed and I was like yeah <inaudible> that makes some sense I was a bit sad and was the first time I was paying attention to the thing
+
+25
+00:02:03,920 --> 00:02:04,500
+[L] oh..
+[S] and I failed and I was like yeah <inaudible> that makes some sense I was a bit sad and was the first time I was paying attention to the thing
+
+26
+00:02:04,500 --> 00:02:11,320
+[S] and I failed and I was like yeah <inaudible> that makes some sense I was a bit sad and was the first time I was paying attention to the thing
+
+27
+00:02:11,320 --> 00:02:17,520
+[S] and I failed but then the teacher came talk to me and then he asked yeah what's happening why you failed?
+
+28
+00:02:17,520 --> 00:02:27,200
+[S] you always pay attention you're always in the lecture you always make good questions and taking notes then we talked a lot for a long time and I got this boost of um..
+
+29
+00:02:27,200 --> 00:02:35,070
+[S] motivation you know like yeah it's not that bad to fail but it's important that I learn what they <inaudible> and then I can get better next time
+
+30
+00:02:35,070 --> 00:02:44,300
+[S] then I studied more and I started studying I started liking it a bit um.. understanding the area not just memorizing dates and numbers and stuff like that
+
+31
+00:02:44,300 --> 00:02:51,250
+[S] and there was a second exam and I make the second exam and I fail again
+
+32
+00:02:51,570 --> 00:02:58,820
+[S] and then was like wow something wrong and then I started to panic I really really like.. wow that's not possible
+
+33
+00:02:58,820 --> 00:03:06,820
+[S] I finally connected with one course I like it and I like to learn it
+
+34
+00:03:06,820 --> 00:03:13,950
+[S] and I failed what's wrong here and I was really down really depressed and the teacher came and talk to me hey what's happening
+
+35
+00:03:13,950 --> 00:03:23,770
+[S] I see that you're really interested and it's the second time you fail now but don't give up go for it and study again calm down and then I tried again to study and
+
+36
+00:03:24,200 --> 00:03:33,700
+[S] repeat to myself every night to study the course um.. the night before the final exam so I had to pass this final exam otherwise I fail the course right
+
+37
+00:03:33,700 --> 00:03:42,420
+[S] the night before the final exam I completely panicked I completely completely panicked so what I did? I took some stripes of paper and I make some notes on it
+
+38
+00:03:42,570 --> 00:03:49,100
+[S] and then my plan was to bring this during the exam into my sleeve so I could take it out during the exam and kind of cheat the exam
+
+39
+00:03:49,100 --> 00:03:56,450
+[S] but the.. yeah and then came the day of the exam and I did it
+
+40
+00:03:56,450 --> 00:04:02,920
+[S] so I really took it and I don't know if he saw it he didn't tell anything so I made the exam
+
+41
+00:04:02,920 --> 00:04:10,700
+[S] by the end of the exam I was feeling so bad I was feeling so.. so guilty so heavily
+
+42
+00:04:10,700 --> 00:04:17,570
+[S] these heavy shoulders you know really like wow how can I do that it was really ridiculous in the end I passed the exam
+
+43
+00:04:17,570 --> 00:04:26,200
+[S] but the day after it was like wow that was not right that was really like wow really really down really dense
+
+44
+00:04:26,200 --> 00:04:34,420
+[S] and I carried this with me over over and over I mean I never did this anymore I think maybe because of that maybe because of the feeling of guilt of um..
+
+45
+00:04:34,420 --> 00:04:43,870
+[S] failing from.. with myself so so strong like it is a lesson that I learned was really strong in my teenage times
+

@@ -1,0 +1,292 @@
+﻿1
+00:00:00,000 --> 00:00:00,880
+[S] Hi [L] Hi
+
+2
+00:00:00,880 --> 00:00:02,100
+[S] How are you? [L] Fine, and you?
+
+3
+00:00:02,100 --> 00:00:04,680
+[S] Yeah, cool, cool, cool, cool, I mean, standard
+
+4
+00:00:04,680 --> 00:00:06,680
+[S] I was remembering some things that happened
+
+5
+00:00:06,680 --> 00:00:08,680
+[L] Okay [S] In the past uh hmm..
+
+6
+00:00:08,680 --> 00:00:10,680
+[S] You had good experiences on your high school?
+
+7
+00:00:10,680 --> 00:00:12,920
+[L] Yeah, some [S] Yeah, some?
+
+8
+00:00:12,920 --> 00:00:15,200
+[L] Yeah [S] So this was yeah kind of divided
+
+9
+00:00:15,200 --> 00:00:18,840
+[L] Yeah [S] Yeah, every time I ask someone, I always, I mean, it's 
+
+10
+00:00:18,840 --> 00:00:21,920
+[S] Very, it's really 50 50, some people really love it and enjoy it
+
+11
+00:00:21,920 --> 00:00:25,900
+[S] And some people really not like it much, it was a bad time [L] Hmm 
+
+12
+00:00:25,900 --> 00:00:30,540
+[S] For me it was a different time, I was moving from school to school, so
+
+13
+00:00:30,540 --> 00:00:32,940
+[S] On my second year of high school I..
+
+14
+00:00:32,940 --> 00:00:39,100
+[S] I moved to a new, new school, and then you know it's hard to again, with a lot of people that you don't know
+
+15
+00:00:39,100 --> 00:00:41,660
+[S] No one knows you, and you are the new guy, and
+
+16
+00:00:41,660 --> 00:00:47,140
+[S] I never could connect with there people, they're there since ever, since their kindergarten, doing together, you know and
+
+17
+00:00:47,140 --> 00:00:50,140
+[L] True, yeah, hmm [S] You're kind of the outsider
+
+18
+00:00:50,140 --> 00:00:53,800
+[S] And this <inaudible> teachers, they're very
+
+19
+00:00:53,800 --> 00:00:56,500
+[S] Uh this old didactic style, you know
+
+20
+00:00:56,500 --> 00:00:59,920
+[S] This authoritarianism in the school [L] Hmm
+
+21
+00:00:59,920 --> 00:01:03,700
+[S] That they don't know how to pass the, the, the, the subject properly
+
+22
+00:01:03,700 --> 00:01:08,040
+[S] They just yeah right something in the board and then that's all [L] Okay
+
+23
+00:01:08,040 --> 00:01:10,620
+[S] And.. and I was not the best student
+
+24
+00:01:10,620 --> 00:01:15,320
+[S] I was always average, you know, I was doing everything I could just to pass [L] Hmm hmm
+
+25
+00:01:15,320 --> 00:01:19,200
+[S] You know but never yeah, I never liked it, I never liked the subjects also
+
+26
+00:01:19,200 --> 00:01:22,520
+[S] Er but everything changed when there was a new teacher coming
+
+27
+00:01:22,520 --> 00:01:27,380
+[S] And he was younger than the other guys, he was more dynamic, he was more light [L] Hmm
+
+28
+00:01:27,380 --> 00:01:31,440
+[S] So he made this very good didactic, didactic when he was teaching
+
+29
+00:01:31,440 --> 00:01:35,360
+[S] And explaining things better, and making things interesting, he was teaching history [L] Hmm 
+
+30
+00:01:35,360 --> 00:01:38,320
+[S] So.. history for me was never the best subject
+
+31
+00:01:38,320 --> 00:01:42,140
+[S] Because I just had to memorize a lot of dates, a lot names, a lot of things like that
+
+32
+00:01:42,140 --> 00:01:47,320
+[S] But.. he make a difference, he make it more life, more interesting to study, you know [L] Hmm
+
+33
+00:01:47,320 --> 00:01:51,200
+[S] Then I start to pay attention more, and attend more his lectures
+
+34
+00:01:51,200 --> 00:01:55,920
+[S] Uh.. yeah uh then came the first test, the first exam, I fail
+
+35
+00:01:55,920 --> 00:01:58,560
+[L] Uh [S] Yeah, really bad, and that is like yeah, wow
+
+36
+00:01:58,560 --> 00:02:01,660
+[S] That's bad, I was starting to get used to it and to like it
+
+37
+00:02:01,660 --> 00:02:04,320
+[S] Uh but then he came talk to me, this teacher came talk to me
+
+38
+00:02:04,320 --> 00:02:09,120
+[S] Is the first time that a teacher comes and shows interest on the grades of the student for me
+
+39
+00:02:09,120 --> 00:02:11,120
+[S] Wow okay, but he was a very nice guy [L] Hmm
+
+40
+00:02:11,120 --> 00:02:15,260
+[S] And he was asking me yeah I saw that you were very interested on the lecture and
+
+41
+00:02:15,260 --> 00:02:17,260
+[S] Why you fail? What's happening?
+
+42
+00:02:17,260 --> 00:02:20,460
+[S] We talked a lot and he gave me some hints of how to study and [L] Hmm
+
+43
+00:02:20,460 --> 00:02:24,440
+[S] More than everything he gives me motivation of how to go on, you know
+
+44
+00:02:24,440 --> 00:02:28,220
+[S] Um then things happen, paying attention more in the class, attending more
+
+45
+00:02:28,220 --> 00:02:30,960
+[S] Second exam came, I failed again [L] Uh, no
+
+46
+00:02:30,960 --> 00:02:33,800
+[S] And that's like, wow, come on, that's really like [L] Yeah
+
+47
+00:02:33,800 --> 00:02:35,800
+[S] How this can be possible, right?
+
+48
+00:02:35,800 --> 00:02:37,800
+[S] I start to feel bad for myself
+
+49
+00:02:37,800 --> 00:02:40,980
+[S] Er.. then it's yeah no I, there was a third exam
+
+50
+00:02:40,980 --> 00:02:44,060
+[S] And I had to pass it, so I say you know I have to pass this third exam
+
+51
+00:02:44,060 --> 00:02:47,680
+[S] So I will make for it and.. I studied like crazy
+
+52
+00:02:47,680 --> 00:02:49,680
+[S] Really first time in my life that I was really, really studying
+
+53
+00:02:49,680 --> 00:02:53,820
+[S] And reading the books, and really, really trying to understand it and stuff, and writing [L] Hmm
+
+54
+00:02:53,840 --> 00:02:56,800
+[S] Er.. but the day before the exam
+
+55
+00:02:56,800 --> 00:03:00,960
+[S] I was so nervous, so anxious, that I had some panic attacks
+
+56
+00:03:00,960 --> 00:03:03,720
+[L] Uh [S] And say yeah, I cannot do that, I cannot do that, I cannot do that
+
+57
+00:03:03,720 --> 00:03:07,240
+[S] And the only solution I could find to, to calm me down
+
+58
+00:03:07,240 --> 00:03:11,140
+[S] Was to get some strips of paper and write the answers on it
+
+59
+00:03:11,140 --> 00:03:16,060
+[S] And then put on my sleeves, so I kind of made some cheating papers on it [L] Uh uh <laughs>
+
+60
+00:03:16,060 --> 00:03:19,420
+[S] Then I went to the test, to do the test with these papers on my sleeves,
+
+61
+00:03:19,420 --> 00:03:22,400
+[S] And.. I start to answer the test and
+
+62
+00:03:22,400 --> 00:03:25,240
+[S] Taking the, yeah the notes I made
+
+63
+00:03:25,240 --> 00:03:29,240
+[S] But in the end when I was finishing the test, I started to feel so bad
+
+64
+00:03:29,240 --> 00:03:33,060
+[L] Okay [S] So guilty, you know, I was wow
+
+65
+00:03:33,060 --> 00:03:37,020
+[S] That's really awful, I'm betraying the trust of this guy on me [L] Hmm
+
+66
+00:03:37,020 --> 00:03:40,120
+[S] And.. I studied so hard, and that's how I do it
+
+67
+00:03:40,120 --> 00:03:44,760
+[S] And wow I really felt like the worst person on earth
+
+68
+00:03:44,760 --> 00:03:49,040
+[S] And then, and then I hand the test, I pass
+
+69
+00:03:49,040 --> 00:03:51,400
+[S] I never talk to this professor, this teacher anymore
+
+70
+00:03:51,400 --> 00:03:53,840
+[S] But I always carry this with me, this guilt
+
+71
+00:03:53,840 --> 00:03:59,260
+[S] This heavy, heavy feeling, of wow this was low bottom you'll ever achieve [L] Hmm
+
+72
+00:03:59,260 --> 00:04:02,120
+[S] It was a milestone for me, I never did this anymore [L] Okay
+
+73
+00:04:02,120 --> 00:04:07,980
+[S] Er.. but I will always carry this guilt with me, it was really, really something [L] Uh
+

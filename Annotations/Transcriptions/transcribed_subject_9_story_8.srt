@@ -1,0 +1,533 @@
+﻿1
+00:00:00,000 --> 00:00:01,120
+[S] hey hey how are you doing?
+
+2
+00:00:01,120 --> 00:00:02,700
+[L] nice nice I'm doing well thanks
+
+3
+00:00:02,700 --> 00:00:03,120
+[S] how was your weekend?
+[L] nice nice I'm doing well thanks
+
+4
+00:00:03,120 --> 00:00:03,850
+[S] how was your weekend?
+
+5
+00:00:03,850 --> 00:00:05,220
+[S] yeah it was really good
+
+6
+00:00:05,220 --> 00:00:05,700
+[S] yeah?
+
+7
+00:00:05,700 --> 00:00:06,200
+[L] yeah
+
+8
+00:00:06,200 --> 00:00:08,950
+[S] I um in a trip I went to Norway
+
+9
+00:00:08,950 --> 00:00:09,970
+[L] ok...
+
+10
+00:00:09,970 --> 00:00:12,620
+[S] to Tromsø have you ever been there? Norway?
+
+11
+00:00:12,650 --> 00:00:13,570
+[L] no never
+
+12
+00:00:13,570 --> 00:00:14,050
+[S] never?
+
+13
+00:00:14,050 --> 00:00:14,920
+[L] perhaps someday
+
+14
+00:00:14,920 --> 00:00:15,620
+[S] it's really cold
+
+15
+00:00:15,620 --> 00:00:16,000
+[L] yeah?
+
+16
+00:00:16,000 --> 00:00:16,570
+[S] I visited a friend he's studying
+[L] yeah?
+
+17
+00:00:16,570 --> 00:00:17,550
+[S] I visited a friend he's studying
+
+18
+00:00:17,550 --> 00:00:18,520
+[L] is it beautiful?
+[S] I visited a friend he's studying
+
+19
+00:00:18,520 --> 00:00:18,570
+[S] I visited a friend he's studying
+
+20
+00:00:19,120 --> 00:00:20,370
+[S] Yeah I mean my friend or the city? yeah I think it's nice
+
+21
+00:00:20,370 --> 00:00:22,870
+[L] <laughs>
+[S] Yeah I mean my friend or the city? yeah I think it's nice
+
+22
+00:00:22,870 --> 00:00:22,970
+[L] <laughs>
+[L] <laughs>
+[S] Yeah I mean my friend or the city? yeah I think it's nice
+
+23
+00:00:22,970 --> 00:00:23,070
+[S] it's a nice city not a lot to do there
+[S] Yeah I mean my friend or the city? yeah I think it's nice
+[L] <laughs>
+
+24
+00:00:23,070 --> 00:00:25,020
+[L] <laughs>
+[S] it's a nice city not a lot to do there
+
+25
+00:00:25,020 --> 00:00:25,850
+[S] it's a nice city not a lot to do there
+
+26
+00:00:25,950 --> 00:00:29,370
+[S] so it's really cold and in winter gets you know
+
+27
+00:00:29,370 --> 00:00:29,520
+[S] <inaudible>
+
+28
+00:00:29,520 --> 00:00:30,050
+[L] start raining?
+[S] <inaudible>
+
+29
+00:00:30,050 --> 00:00:30,650
+[S] all the time
+[L] start raining?
+
+30
+00:00:30,650 --> 00:00:30,850
+[S] all the time
+
+31
+00:00:31,250 --> 00:00:31,800
+[S] no not necessarily raining just felt again cold all the time
+
+32
+00:00:31,800 --> 00:00:32,850
+[L] <inaudible>
+[S] no not necessarily raining just felt again cold all the time
+
+33
+00:00:32,850 --> 00:00:33,850
+[S] no not necessarily raining just felt again cold all the time
+
+34
+00:00:33,850 --> 00:00:34,570
+[L] uh-huh
+[S] no not necessarily raining just felt again cold all the time
+
+35
+00:00:34,570 --> 00:00:34,600
+[S] but my friend is studying there so I just decided you know to
+[S] no not necessarily raining just felt again cold all the time
+
+36
+00:00:34,600 --> 00:00:37,800
+[S] but my friend is studying there so I just decided you know to
+
+37
+00:00:37,800 --> 00:00:41,470
+[S] just take a look around you know when you have friends studying abroad um.. yeah we just went around it's really expensive though so you know for a meal and a beer
+
+38
+00:00:41,470 --> 00:00:42,420
+[L] uh-huh
+[S] just take a look around you know when you have friends studying abroad um.. yeah we just went around it's really expensive though so you know for a meal and a beer
+
+39
+00:00:42,420 --> 00:00:47,070
+[S] just take a look around you know when you have friends studying abroad um.. yeah we just went around it's really expensive though so you know for a meal and a beer
+
+40
+00:00:47,370 --> 00:00:49,920
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+41
+00:00:49,920 --> 00:00:50,700
+[L] wow
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+42
+00:00:50,700 --> 00:00:50,920
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+43
+00:00:50,920 --> 00:00:51,720
+[L] <inaudible>
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+44
+00:00:51,720 --> 00:00:53,450
+[L] better not travel no
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+45
+00:00:53,450 --> 00:00:54,870
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+46
+00:00:54,870 --> 00:00:55,370
+[S] I mean he asked me if I ever tried this you know this smelly fish like fermented with salt which is supposed to be the smelliest food in the world
+[S] you really pay a lot of like twenty euros or so so it's not great for students... it's not great for students um..
+
+47
+00:00:55,370 --> 00:01:03,470
+[S] I mean he asked me if I ever tried this you know this smelly fish like fermented with salt which is supposed to be the smelliest food in the world
+
+48
+00:01:03,500 --> 00:01:04,420
+[S] have you ever heard of it
+
+49
+00:01:04,420 --> 00:01:05,750
+[L] no never
+
+50
+00:01:05,750 --> 00:01:05,820
+[S] well there's this kind of fish I forgot the name
+
+51
+00:01:05,820 --> 00:01:07,750
+[L] I'm trying to imagine
+[S] well there's this kind of fish I forgot the name
+
+52
+00:01:07,750 --> 00:01:07,770
+[L] I'm trying to imagine
+
+53
+00:01:07,770 --> 00:01:07,820
+[L] uncooked fish?
+
+54
+00:01:07,820 --> 00:01:09,770
+[L] they call this like it's like yeah it's like a raw (harrowing?) like
+[L] uncooked fish?
+
+55
+00:01:09,770 --> 00:01:11,170
+[L] they call this like it's like yeah it's like a raw (harrowing?) like
+
+56
+00:01:11,170 --> 00:01:12,520
+[S] fermented with salt
+
+57
+00:01:12,520 --> 00:01:15,300
+[L] uh I know I know I know I know
+
+58
+00:01:15,300 --> 00:01:15,420
+[L] <inaudible>
+
+59
+00:01:15,420 --> 00:01:15,720
+[S] it's supposed to be super smelly and but my friend told me that although it smells really bad it tastes ok
+[L] <inaudible>
+
+60
+00:01:15,720 --> 00:01:21,970
+[S] it's supposed to be super smelly and but my friend told me that although it smells really bad it tastes ok
+
+61
+00:01:21,970 --> 00:01:22,470
+[L] uh-huh
+
+62
+00:01:22,470 --> 00:01:27,220
+[S] I was like ok I don't believe you so we made a bet then we had you know <inaudible> to buy it I mean it right
+
+63
+00:01:27,220 --> 00:01:31,800
+[L] I heard that's a kind of contest to check if you are brave enough like if you eat this kind of fish
+
+64
+00:01:31,800 --> 00:01:33,800
+[S] yeah I...
+[L] I heard that's a kind of contest to check if you are brave enough like if you eat this kind of fish
+
+65
+00:01:33,800 --> 00:01:33,820
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+[S] yeah I...
+[L] I heard that's a kind of contest to check if you are brave enough like if you eat this kind of fish
+
+66
+00:01:33,820 --> 00:01:33,900
+[L] I heard that's a kind of contest to check if you are brave enough like if you eat this kind of fish
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+
+67
+00:01:33,900 --> 00:01:38,950
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+
+68
+00:01:38,950 --> 00:01:39,970
+[L] <laughs>
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+
+69
+00:01:39,970 --> 00:01:43,600
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+
+70
+00:01:43,600 --> 00:01:43,650
+[S] I prefer meat but yeah we just went to supermarket we got these cans they look like tuna cans like
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+
+71
+00:01:43,650 --> 00:01:43,670
+[L] uh-huh
+[S] I prefer meat but yeah we just went to supermarket we got these cans they look like tuna cans like
+[S] only after that experience I checked some reaction videos on youtube to realize that it tastes really bad and I don't like fish in general you know even like cooked fish it's kinda I don't know I don't like it
+
+72
+00:01:43,670 --> 00:01:44,370
+[S] I prefer meat but yeah we just went to supermarket we got these cans they look like tuna cans like
+[L] uh-huh
+
+73
+00:01:44,370 --> 00:01:50,350
+[S] I prefer meat but yeah we just went to supermarket we got these cans they look like tuna cans like
+
+74
+00:01:50,350 --> 00:01:59,500
+[S] you know something normal even the can looks a bit disgusting I don't know I have this feeling for this stuff I don't know whatever so we went there and well you're not supposed to eat this indoors
+
+75
+00:01:59,500 --> 00:02:00,150
+[L] uh... because of the smell?
+
+76
+00:02:00,150 --> 00:02:01,470
+[S] 'cause your house is gonna smell like hell um so yeah so they advise you to do this outdoors so we went to this small part uh
+[L] uh... because of the smell?
+
+77
+00:02:01,470 --> 00:02:02,770
+[S] 'cause your house is gonna smell like hell um so yeah so they advise you to do this outdoors so we went to this small part uh
+
+78
+00:02:02,770 --> 00:02:03,170
+[L] <laughs>
+[S] 'cause your house is gonna smell like hell um so yeah so they advise you to do this outdoors so we went to this small part uh
+
+79
+00:02:03,170 --> 00:02:03,450
+[S] 'cause your house is gonna smell like hell um so yeah so they advise you to do this outdoors so we went to this small part uh
+
+80
+00:02:03,450 --> 00:02:06,200
+[L] a week or so
+[S] 'cause your house is gonna smell like hell um so yeah so they advise you to do this outdoors so we went to this small part uh
+
+81
+00:02:06,200 --> 00:02:10,100
+[S] 'cause your house is gonna smell like hell um so yeah so they advise you to do this outdoors so we went to this small part uh
+
+82
+00:02:10,650 --> 00:02:20,150
+[S] close to his place uh you know uh we went there and I was trying to prepare myself psychologically for this I had a bad feeling you know
+
+83
+00:02:20,150 --> 00:02:30,850
+[S] I could feel that something was like he just kept saying yeah doesn't matter the smell is strong but the taste is good I didn't believe him like from the real beginning and uh
+
+84
+00:02:30,850 --> 00:02:40,320
+[S] yeah and then we got there we just you know started to open this thing and wow the smell was wow I never smelled something so strong and you know this mix of raw fish
+
+85
+00:02:40,320 --> 00:02:46,470
+[S] salt whatever and also the look was disgusting 'cause it was this kinda of slices of fish this kind of water, oil, jello
+
+86
+00:02:46,470 --> 00:02:47,320
+[L] uh-huh
+[S] salt whatever and also the look was disgusting 'cause it was this kinda of slices of fish this kind of water, oil, jello
+
+87
+00:02:47,320 --> 00:02:49,720
+[S] salt whatever and also the look was disgusting 'cause it was this kinda of slices of fish this kind of water, oil, jello
+
+88
+00:02:49,770 --> 00:02:50,220
+[L] uh-huh
+
+89
+00:02:50,220 --> 00:02:50,450
+[S] something really disgusting um then I saw his face he was also like ew so then I knew that
+[L] uh-huh
+
+90
+00:02:50,450 --> 00:02:57,720
+[S] something really disgusting um then I saw his face he was also like ew so then I knew that
+
+91
+00:02:57,720 --> 00:03:01,520
+[S] it was not going to taste good I knew it was like oh my god but anyway it was a bet.. it was a bet man you know
+
+92
+00:03:01,520 --> 00:03:03,670
+[L] <inaudible>
+[S] it was not going to taste good I knew it was like oh my god but anyway it was a bet.. it was a bet man you know
+
+93
+00:03:03,670 --> 00:03:04,350
+[S] it was not going to taste good I knew it was like oh my god but anyway it was a bet.. it was a bet man you know
+
+94
+00:03:04,350 --> 00:03:04,470
+[S] just for the bet I wanted to win that bet so so yeah so now you know the hardest part
+[S] it was not going to taste good I knew it was like oh my god but anyway it was a bet.. it was a bet man you know
+
+95
+00:03:04,470 --> 00:03:06,900
+[S] just for the bet I wanted to win that bet so so yeah so now you know the hardest part
+
+96
+00:03:06,900 --> 00:03:07,450
+[L] uh-huh
+[S] just for the bet I wanted to win that bet so so yeah so now you know the hardest part
+
+97
+00:03:07,450 --> 00:03:10,670
+[S] just for the bet I wanted to win that bet so so yeah so now you know the hardest part
+
+98
+00:03:10,670 --> 00:03:18,500
+[S] you know we <inaudible> was <inaudible> but now you have to you know take that thing  you know this texture a bit gluey and oily and
+
+99
+00:03:18,500 --> 00:03:19,070
+[L] uh-huh
+
+100
+00:03:19,070 --> 00:03:28,920
+[S] oh my god I don't even wanna think about it so so yeah I wanted to give it a bite but I couldn't the first time the smell was so strong
+
+101
+00:03:28,920 --> 00:03:32,350
+[S] then I um looked at him and he was like literally crying you could see tears down from his eyes and he was like
+
+102
+00:03:32,350 --> 00:03:34,820
+[L] <laughs>
+[S] then I um looked at him and he was like literally crying you could see tears down from his eyes and he was like
+
+103
+00:03:34,820 --> 00:03:35,870
+[S] <inaudible>
+[L] <laughs>
+
+104
+00:03:35,870 --> 00:03:36,350
+[L] <laughs>
+
+105
+00:03:36,350 --> 00:03:39,900
+[S] but yeah I was like uh...
+[L] <laughs>
+
+106
+00:03:39,900 --> 00:03:40,050
+[S] but yeah I was like uh...
+
+107
+00:03:40,050 --> 00:03:43,200
+[S] I just grabbed my nose like we just put it like a medicine you know trying to swallow it
+
+108
+00:03:43,200 --> 00:03:45,650
+[L] <laughs>
+[S] I just grabbed my nose like we just put it like a medicine you know trying to swallow it
+
+109
+00:03:45,650 --> 00:03:45,700
+[S] but I couldn't I just gave it one single bite and then it was too much you know it was kind of my whole body was rejecting that piece of fish
+[S] I just grabbed my nose like we just put it like a medicine you know trying to swallow it
+
+110
+00:03:45,700 --> 00:03:52,400
+[S] but I couldn't I just gave it one single bite and then it was too much you know it was kind of my whole body was rejecting that piece of fish
+
+111
+00:03:52,400 --> 00:03:53,150
+[L] uh-huh
+[S] but I couldn't I just gave it one single bite and then it was too much you know it was kind of my whole body was rejecting that piece of fish
+
+112
+00:03:53,150 --> 00:03:53,870
+[L] did you throw away?
+[S] but I couldn't I just gave it one single bite and then it was too much you know it was kind of my whole body was rejecting that piece of fish
+
+113
+00:03:53,870 --> 00:03:54,720
+[L] did you throw away?
+
+114
+00:03:54,720 --> 00:04:03,120
+[S] I just threw yeah I just like you know I dropped the can with the fish and he was also trying to fake like hey it's not so bad but he also stopped
+
+115
+00:04:03,120 --> 00:04:06,020
+[S] but he kinda of won the bet 'cause he ate more than me so yeah so I'm gonna remember this weekend
+
+116
+00:04:06,020 --> 00:04:06,570
+[L] uh-huh
+[S] but he kinda of won the bet 'cause he ate more than me so yeah so I'm gonna remember this weekend
+
+117
+00:04:06,570 --> 00:04:09,570
+[S] but he kinda of won the bet 'cause he ate more than me so yeah so I'm gonna remember this weekend
+
+118
+00:04:09,570 --> 00:04:09,600
+[S] in Norway forever because of this disgusting smelly fish
+[S] but he kinda of won the bet 'cause he ate more than me so yeah so I'm gonna remember this weekend
+
+119
+00:04:09,600 --> 00:04:13,020
+[S] in Norway forever because of this disgusting smelly fish
+
+120
+00:04:13,020 --> 00:04:13,950
+[L] oh... <laughs>
+[S] in Norway forever because of this disgusting smelly fish
+
+121
+00:04:13,950 --> 00:04:15,950
+[L] oh... <laughs>
+

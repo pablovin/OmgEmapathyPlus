@@ -1,0 +1,468 @@
+﻿1
+00:00:00,000 --> 00:00:00,200
+[S] Hey!
+
+2
+00:00:00,200 --> 00:00:00,640
+[L] Hi
+
+3
+00:00:00,640 --> 00:00:01,120
+[S] How are you?
+
+4
+00:00:01,120 --> 00:00:01,725
+[L] Good, and you?
+
+5
+00:00:01,730 --> 00:00:03,160
+[S] Yeah? Cool, cool, cool, cool..
+
+6
+00:00:03,160 --> 00:00:07,480
+[S] I was thinking.. remembering some stuff from the past these days and <inaudible>
+
+7
+00:00:07,480 --> 00:00:10,800
+[S] How was your high school? You liked it? High school time..
+
+8
+00:00:10,800 --> 00:00:11,980
+[S] Yeah, I had a great time in high school
+
+9
+00:00:11,980 --> 00:00:12,240
+[S] Yeah?
+[S] Yeah, I had a great time in high school
+
+10
+00:00:12,240 --> 00:00:12,480
+[L] Yeah
+[S] Yeah?
+[S] Yeah, I had a great time in high school
+
+11
+00:00:12,480 --> 00:00:12,500
+[S] Yeah, I had a great time in high school
+[L] Yeah
+
+12
+00:00:12,500 --> 00:00:12,560
+[L] Yeah
+
+13
+00:00:12,560 --> 00:00:13,160
+[S] It was ok?
+
+14
+00:00:13,160 --> 00:00:13,340
+[L] Yeah
+
+15
+00:00:13,340 --> 00:00:13,740
+[S] Yeah
+
+16
+00:00:13,740 --> 00:00:19,980
+[S] Because I have.. Everyone I ask.. They.. They are always fifty fifty, others had a very good time and liked it, others were awful
+
+17
+00:00:19,980 --> 00:00:21,720
+[L] For some reason, right?
+
+18
+00:00:21,720 --> 00:00:24,320
+[S] For me.. I was in the awful side, I mean.. I moved..
+
+19
+00:00:24,320 --> 00:00:27,580
+[S] In the middle of high school, so in the second year of high school I moved from another school
+
+20
+00:00:27,580 --> 00:00:33,600
+[S] I was completely alone so.. everyone were grouped up together, studied in the same school and then I was the new guy, you know?
+
+21
+00:00:33,600 --> 00:00:33,680
+[L] Uh-huh
+[S] I was completely alone so.. everyone were grouped up together, studied in the same school and then I was the new guy, you know?
+
+22
+00:00:33,680 --> 00:00:34,080
+[S] I could not connect to anyone there it was strange..
+[L] Uh-huh
+
+23
+00:00:34,080 --> 00:00:36,680
+[S] I could not connect to anyone there it was strange..
+
+24
+00:00:36,680 --> 00:00:38,520
+[S] And..
+
+25
+00:00:38,520 --> 00:00:43,720
+[S] Together with that there is the whole structure of the school, the teachers.. they were really..
+
+26
+00:00:43,720 --> 00:00:46,380
+[S] This.. undidatic..
+
+27
+00:00:46,380 --> 00:00:49,380
+[S] Very authoritarian way to teach..
+
+28
+00:00:49,380 --> 00:00:51,240
+[S] I really could not connect to that, I really could not learning with that, so I was always Um..
+
+29
+00:00:51,240 --> 00:00:51,680
+[L] Uh-huh
+[S] I really could not connect to that, I really could not learning with that, so I was always Um..
+
+30
+00:00:51,680 --> 00:00:53,440
+[S] I really could not connect to that, I really could not learning with that, so I was always Um..
+
+31
+00:00:54,240 --> 00:00:57,160
+[S] Average.. so I always did every think to pass
+
+32
+00:00:57,160 --> 00:00:59,980
+[S] But that's all, I never tried to be more than that, you know?
+
+33
+00:00:59,980 --> 00:01:00,480
+[L] Uh-huh
+[S] But that's all, I never tried to be more than that, you know?
+
+34
+00:01:00,480 --> 00:01:03,480
+[S] And this was.. Yeah.. Following me through the whole year
+
+35
+00:01:03,480 --> 00:01:06,000
+[S] But then there is a time that.. Um..
+
+36
+00:01:06,000 --> 00:01:06,720
+[S] <breath>
+
+37
+00:01:06,720 --> 00:01:08,280
+[S] A new teacher arrived..
+
+38
+00:01:08,280 --> 00:01:11,080
+[S] Uh.. he was a history teacher
+
+39
+00:01:11,080 --> 00:01:14,860
+[S] And I never liked history, history was always like.. memorizing dates and memorizing.. Uh.. names and things <inaudible>.. 
+
+40
+00:01:14,860 --> 00:01:17,640
+[L] Yeah.. Boring stuff
+[S] And I never liked history, history was always like.. memorizing dates and memorizing.. Uh.. names and things <inaudible>.. 
+
+41
+00:01:17,640 --> 00:01:17,680
+[S] Completely right? Yeah this is awful
+[L] Yeah.. Boring stuff
+[S] And I never liked history, history was always like.. memorizing dates and memorizing.. Uh.. names and things <inaudible>.. 
+
+42
+00:01:17,680 --> 00:01:19,720
+[S] Completely right? Yeah this is awful
+
+43
+00:01:19,720 --> 00:01:23,880
+[S] But then this guy arrived, and he was a very good guy, very.. Uh.. he was a younger guy
+
+44
+00:01:23,880 --> 00:01:30,920
+[S] Very dynamic teacher  very good didactic, trying to aggregate the students and.. to make something more funny..
+
+45
+00:01:30,920 --> 00:01:33,040
+[S] Than memorizing dates and names, right?
+
+46
+00:01:33,040 --> 00:01:33,240
+[S] Uh-huh
+
+47
+00:01:33,240 --> 00:01:34,160
+[S] And actually.. The.. the class of history, the history class became more funny
+[S] Uh-huh
+
+48
+00:01:34,160 --> 00:01:37,680
+[S] And actually.. The.. the class of history, the history class became more funny
+
+49
+00:01:37,680 --> 00:01:41,860
+[S] I started to go  it.. and I'm.. ok it's actually nice and.. cool
+
+50
+00:01:41,860 --> 00:01:45,160
+[S] And then I did my Uh.. first exam
+
+51
+00:01:45,160 --> 00:01:46,280
+[S] And I failed..
+
+52
+00:01:46,280 --> 00:01:48,100
+[S] Oh <laughs>
+
+53
+00:01:48,100 --> 00:01:49,440
+[S] Convenient I really failed and I was like, wow, that's not good
+[S] Oh <laughs>
+
+54
+00:01:49,440 --> 00:01:51,040
+[S] Convenient I really failed and I was like, wow, that's not good
+
+55
+00:01:51,040 --> 00:01:54,600
+[S] And then I started to get bad, but then the teacher came and talked to me
+
+56
+00:01:54,600 --> 00:01:58,280
+[S] This was something new and he said, ya I see that you are there all the time..
+
+57
+00:01:58,280 --> 00:02:02,560
+[S] And you are paying attention, so what happen and then we started to talk and trying to..
+
+58
+00:02:02,560 --> 00:02:07,540
+[S] <inaudible> what happen and.. He gave me some nice hints about study and..
+
+59
+00:02:07,540 --> 00:02:09,880
+[S] The most important he gave me a lot of motivation
+
+60
+00:02:09,880 --> 00:02:13,920
+[S] Of how to study, right? To like like he liked the class
+
+61
+00:02:13,920 --> 00:02:16,920
+[S] And.. Then..
+
+62
+00:02:16,920 --> 00:02:20,600
+[S] Couple time passed, and then I did the second exam, I failed again
+
+63
+00:02:20,600 --> 00:02:21,840
+[L] <breath]>
+
+64
+00:02:21,840 --> 00:02:23,880
+[S] It's like, wow that's awful
+
+65
+00:02:23,880 --> 00:02:25,000
+[L] <laughs> <inaudible>
+
+66
+00:02:25,000 --> 00:02:28,640
+[S] Wow that was really bad and then I started to feel really really bad
+
+67
+00:02:28,640 --> 00:02:29,380
+[L] Uh-huh
+
+68
+00:02:29,380 --> 00:02:32,640
+[S] Because it was the second time now.. shouldn't be like that
+
+69
+00:02:32,640 --> 00:02:33,280
+[L] Yeah
+
+70
+00:02:33,280 --> 00:02:33,880
+[S] Right
+
+71
+00:02:33,880 --> 00:02:36,880
+[S] And then I had only one more exam
+
+72
+00:02:36,880 --> 00:02:40,680
+[S] The final exam <inaudible> pass it otherwise I would fail the class
+
+73
+00:02:40,680 --> 00:02:43,280
+[S] And then I said, Yeah, now I get a bit desperate
+
+74
+00:02:43,280 --> 00:02:47,560
+[S] Started to study like a crazy and tried to memorize like crazy a completely wrong stuff
+
+75
+00:02:47,560 --> 00:02:52,040
+[S] But one day before the exam I became very.. in panic
+
+76
+00:02:52,040 --> 00:02:55,040
+[S] So I was having a lot of panic attacks and really angry issues
+
+77
+00:02:55,040 --> 00:02:57,460
+[S] Afraid to fail completely the exam
+
+78
+00:02:57,460 --> 00:03:02,960
+[S] So what I did exactly, took some straps of paper, make some annotations and put those on my sleeve
+
+79
+00:03:02,960 --> 00:03:03,400
+[S] So, yeah, so that was my super dooper plan
+
+80
+00:03:03,400 --> 00:03:04,440
+[L] Oh..
+[S] So, yeah, so that was my super dooper plan
+
+81
+00:03:04,440 --> 00:03:06,920
+[S] So, yeah, so that was my super dooper plan
+
+82
+00:03:06,920 --> 00:03:07,280
+[L] Uh-huh <laughs>
+
+83
+00:03:07,280 --> 00:03:08,240
+[S] You know, er.. Yeah
+[L] Uh-huh <laughs>
+
+84
+00:03:08,240 --> 00:03:09,040
+[L] Smart plan
+[S] You know, er.. Yeah
+
+85
+00:03:09,040 --> 00:03:09,520
+[L] Smart plan
+
+86
+00:03:09,520 --> 00:03:10,480
+[L] <laughs>
+[S] Awful right
+
+87
+00:03:10,480 --> 00:03:10,560
+[L] <laughs>
+
+88
+00:03:10,560 --> 00:03:12,480
+[S] Um.. on the day of the test
+
+89
+00:03:12,980 --> 00:03:17,600
+[S] I was doing the test and I was using my straps and it was actually working.. so I was passing
+
+90
+00:03:17,600 --> 00:03:19,760
+[S] Answering everything properly 
+
+91
+00:03:19,760 --> 00:03:23,800
+[S] But by the ending of the test before I handing I started to feel so bad
+
+92
+00:03:23,800 --> 00:03:29,800
+[S] So.. So.. So.. I don't know, so unconnected with me so..
+
+93
+00:03:29,800 --> 00:03:31,660
+[S] Disgusted for what I were doing, I was doing you know..
+
+94
+00:03:31,660 --> 00:03:32,420
+[L] Uh-huh
+[S] Disgusted for what I were doing, I was doing you know..
+
+95
+00:03:32,420 --> 00:03:32,800
+[S] Disgusted for what I were doing, I was doing you know..
+
+96
+00:03:32,800 --> 00:03:35,680
+[S] Wow, i'm breaking the trust with this guy
+
+97
+00:03:35,680 --> 00:03:38,680
+[S] Who really care about me and care about all
+
+98
+00:03:38,680 --> 00:03:42,640
+[S] I was going and with my self <inaudible>
+
+99
+00:03:42,640 --> 00:03:43,100
+[S] By going this kinda of things, right?
+
+100
+00:03:43,100 --> 00:03:43,600
+[L] Uh-huh
+[S] By going this kinda of things, right?
+
+101
+00:03:43,600 --> 00:03:45,640
+[S] By going this kinda of things, right?
+
+102
+00:03:45,640 --> 00:03:48,520
+[S] I handed the test in the end, and I passed
+
+103
+00:03:48,520 --> 00:03:52,640
+[S] But it was such a bad, bad, bad feeling
+
+104
+00:03:52,640 --> 00:03:55,960
+[S] Since after it I've never did this anymore, I think I learned my lesson
+
+105
+00:03:55,960 --> 00:03:58,960
+[S] But it was a milestone on me was like ya
+
+106
+00:03:58,960 --> 00:04:00,320
+[S] I should be bad at that, I could not <inaudible>
+
+107
+00:04:00,320 --> 00:04:01,120
+[L] Uh-huh
+[S] I should be bad at that, I could not <inaudible>
+
+108
+00:04:01,120 --> 00:04:01,960
+[S] I should be bad at that, I could not <inaudible>
+
+109
+00:04:01,960 --> 00:04:04,580
+[S] Really strong, strong feeling yeah..
+
+110
+00:04:04,580 --> 00:04:07,880
+[S] And this was maybe the best thing I could call from high school times
+
+111
+00:04:07,880 --> 00:04:09,200
+[L] I guess you learned
+
+112
+00:04:09,200 --> 00:04:12,200
+[L] I think I learned
+

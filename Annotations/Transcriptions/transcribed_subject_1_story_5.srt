@@ -1,0 +1,463 @@
+﻿1
+00:00:00,000 --> 00:00:00,220
+[L] Hi!
+
+2
+00:00:00,220 --> 00:00:00,711
+[S] How are you?
+[L] Hi!
+
+3
+00:00:00,711 --> 00:00:00,844
+[S] How are you?
+
+4
+00:00:00,844 --> 00:00:01,644
+[L] I'm great.
+
+5
+00:00:01,644 --> 00:00:03,377
+[S] Yeah? Cool!
+
+6
+00:00:03,377 --> 00:00:03,640
+[S] I was thinking these days about uh...
+[S] Yeah? Cool!
+
+7
+00:00:03,640 --> 00:00:06,222
+[S] I was thinking these days about uh...
+
+8
+00:00:06,220 --> 00:00:09,480
+[S] old time, so.. high school time. 
+
+9
+00:00:09,480 --> 00:00:09,688
+[L] <breath>
+[S] old time, so.. high school time. 
+
+10
+00:00:09,688 --> 00:00:09,930
+[S] Did you like your high school time?
+[L] <breath>
+
+11
+00:00:09,930 --> 00:00:11,200
+[S] Did you like your high school time?
+
+12
+00:00:11,200 --> 00:00:11,680
+[L] No
+[S] Did you like your high school time?
+
+13
+00:00:11,680 --> 00:00:11,728
+[L] No
+
+14
+00:00:11,720 --> 00:00:13,104
+[S] No? really it's was bad?
+
+15
+00:00:13,100 --> 00:00:13,776
+[L] Yeah, it was bad.
+
+16
+00:00:13,770 --> 00:00:14,336
+[S] really? oh, wow <laughs>.
+
+17
+00:00:14,336 --> 00:00:14,704
+[L] Yeah.
+[S] really? oh, wow <laughs>.
+
+18
+00:00:14,704 --> 00:00:16,688
+[S] really? oh, wow <laughs>.
+
+19
+00:00:16,768 --> 00:00:20,224
+[S] My was also awful. was really , really, really  bad.
+
+20
+00:00:20,224 --> 00:00:20,560
+[L] Uh-huh.
+
+21
+00:00:20,560 --> 00:00:25,488
+[S] I was really bad student, really bad grade uh..
+
+22
+00:00:25,480 --> 00:00:33,984
+[S] People under around me was really weird people. So, the whole students. I had no friend at high school. It was strange.
+
+23
+00:00:34,910 --> 00:00:37,712
+[S] People were strange. I couldn't connected to all of them.
+
+24
+00:00:37,744 --> 00:00:37,790
+[S] The teachers were so bad. They were so, so so, bad. Everything so awful.
+
+25
+00:00:37,790 --> 00:00:38,030
+[L] <agrees>
+[S] The teachers were so bad. They were so, so so, bad. Everything so awful.
+
+26
+00:00:38,030 --> 00:00:40,910
+[S] The teachers were so bad. They were so, so so, bad. Everything so awful.
+
+27
+00:00:40,910 --> 00:00:41,840
+[L] <laughs>
+[S] The teachers were so bad. They were so, so so, bad. Everything so awful.
+
+28
+00:00:41,840 --> 00:00:43,560
+[S] The teachers were so bad. They were so, so so, bad. Everything so awful.
+
+29
+00:00:43,560 --> 00:00:43,840
+[L] Uh-huh.
+[S] The teachers were so bad. They were so, so so, bad. Everything so awful.
+
+30
+00:00:43,840 --> 00:00:44,000
+[S] I didn't no fail, but it was almost.  You know? It was really like wow, really, really bad, bad..
+[L] Uh-huh.
+
+31
+00:00:44,000 --> 00:00:48,040
+[S] I didn't no fail, but it was almost.  You know? It was really like wow, really, really bad, bad..
+
+32
+00:00:48,040 --> 00:00:48,430
+[L] Uh-huh.
+[S] I didn't no fail, but it was almost.  You know? It was really like wow, really, really bad, bad..
+
+33
+00:00:48,430 --> 00:00:49,350
+[S] I didn't no fail, but it was almost.  You know? It was really like wow, really, really bad, bad..
+
+34
+00:00:49,350 --> 00:00:50,060
+[L] (I've been there?)
+[S] I didn't no fail, but it was almost.  You know? It was really like wow, really, really bad, bad..
+
+35
+00:00:50,060 --> 00:00:50,080
+[L] <laughs>
+[L] (I've been there?)
+[S] I didn't no fail, but it was almost.  You know? It was really like wow, really, really bad, bad..
+
+36
+00:00:50,080 --> 00:00:50,150
+[S] Yes, It was really ridiculous.
+[L] (I've been there?)
+[L] <laughs>
+
+37
+00:00:50,150 --> 00:00:50,810
+[L] <laughs>
+[S] Yes, It was really ridiculous.
+
+38
+00:00:50,810 --> 00:00:52,080
+[S] Yes, It was really ridiculous.
+
+39
+00:00:52,240 --> 00:00:56,590
+[S] And  there was a time when I was, I think, in the mid of high school something like that.
+
+40
+00:00:56,590 --> 00:00:56,864
+[L] Yeah.
+[S] And  there was a time when I was, I think, in the mid of high school something like that.
+
+41
+00:00:56,860 --> 00:00:57,000
+[S] And then I had this teacher. Which was actually the only good teacher in the whole school. It was the history teacher.
+[L] Yeah.
+
+42
+00:00:57,000 --> 00:01:01,700
+[S] And then I had this teacher. Which was actually the only good teacher in the whole school. It was the history teacher.
+
+43
+00:01:01,700 --> 00:01:01,980
+[L] Yeah.
+[S] And then I had this teacher. Which was actually the only good teacher in the whole school. It was the history teacher.
+
+44
+00:01:01,980 --> 00:01:02,000
+[S] And then I had this teacher. Which was actually the only good teacher in the whole school. It was the history teacher.
+
+45
+00:01:02,096 --> 00:01:05,888
+[S] He was very nice guy, he was very cool guy. You know? very calm.
+
+46
+00:01:05,880 --> 00:01:10,050
+[S] Very relax, different from other teachers. The other teachers always stressful, always like you have to do that, you have to do that <inaudible>. Stupid people.
+
+47
+00:01:10,050 --> 00:01:13,240
+[L] <laughs>
+[S] Very relax, different from other teachers. The other teachers always stressful, always like you have to do that, you have to do that <inaudible>. Stupid people.
+
+48
+00:01:13,240 --> 00:01:13,328
+[S] Very relax, different from other teachers. The other teachers always stressful, always like you have to do that, you have to do that <inaudible>. Stupid people.
+
+49
+00:01:13,320 --> 00:01:21,024
+[S] But this guy was different. He was really nice. He teaches history, he kind of love history, and the way that he teaches was really nice.
+
+50
+00:01:21,184 --> 00:01:26,688
+[S] My problem is that I didn't like history as a course, as a subject, it was really boring for me
+
+51
+00:01:26,680 --> 00:01:27,790
+[S] It was a lot dates, a lot of names to remember, a lot of... It was like <inaudible> why should I do that? wow, It's not for me.
+
+52
+00:01:27,790 --> 00:01:28,590
+[L] Yes.
+[S] It was a lot dates, a lot of names to remember, a lot of... It was like <inaudible> why should I do that? wow, It's not for me.
+
+53
+00:01:28,590 --> 00:01:35,856
+[S] It was a lot dates, a lot of names to remember, a lot of... It was like <inaudible> why should I do that? wow, It's not for me.
+
+54
+00:01:35,850 --> 00:01:45,010
+[S] Uh.. Yeah, but he really make it like.. ok, it was actually not that bad to attend to his class. Then I started to like it or so, and then we had the first exam.
+
+55
+00:01:45,010 --> 00:01:45,184
+[L] Um.
+[S] Uh.. Yeah, but he really make it like.. ok, it was actually not that bad to attend to his class. Then I started to like it or so, and then we had the first exam.
+
+56
+00:01:45,184 --> 00:01:45,460
+[L] Um.
+
+57
+00:01:45,856 --> 00:01:46,810
+[S] I fail miserably. I was super super bad, I was really like awful.
+
+58
+00:01:46,810 --> 00:01:48,600
+[L] <laughs>
+[S] I fail miserably. I was super super bad, I was really like awful.
+
+59
+00:01:48,600 --> 00:01:51,536
+[S] I fail miserably. I was super super bad, I was really like awful.
+
+60
+00:01:51,530 --> 00:01:54,730
+[S] But, after the exams.. after the results come out he came talk to me.
+
+61
+00:01:54,730 --> 00:01:54,944
+[L] Yeah.
+[S] But, after the exams.. after the results come out he came talk to me.
+
+62
+00:01:54,940 --> 00:01:55,220
+[S] And then he came and said: - Yeah, what happen?.  And then he started to talk to me in a different way. None of the other teach did this with me before.
+[L] Yeah.
+
+63
+00:01:55,220 --> 00:02:04,400
+[S] And then he came and said: - Yeah, what happen?.  And then he started to talk to me in a different way. None of the other teach did this with me before.
+
+64
+00:02:05,024 --> 00:02:12,656
+[S] And I don't know he was trying to help. You know? He was really trying to be a good guy. And then I kind of connected with him me and it  kind of <inaudible> yeah..
+
+65
+00:02:13,040 --> 00:02:20,064
+[S] The problem is not the subject. The problem was me. I the one who made this harder than it should be. You know?
+
+66
+00:02:20,240 --> 00:02:28,800
+[S] And yeah, It was not so nice. them I started to study a bit more, pay a bit more attention to class. And then I did the second test. I pass on this test.
+
+67
+00:02:28,800 --> 00:02:29,360
+[L] Uh-huh.
+[S] And yeah, It was not so nice. them I started to study a bit more, pay a bit more attention to class. And then I did the second test. I pass on this test.
+
+68
+00:02:29,360 --> 00:02:29,456
+[S] So, It was like Wow I actually can do that! This is interesting.
+[L] Uh-huh.
+
+69
+00:02:29,456 --> 00:02:32,336
+[S] So, It was like Wow I actually can do that! This is interesting.
+
+70
+00:02:32,608 --> 00:02:35,424
+[S] Er.. I mean.. I barely passed, it was like marginal board the line, but yeah I'd passed. And then came to the final exam.
+
+71
+00:02:35,424 --> 00:02:36,896
+[L] Uh-huh <agrees>
+[S] Er.. I mean.. I barely passed, it was like marginal board the line, but yeah I'd passed. And then came to the final exam.
+
+72
+00:02:36,896 --> 00:02:39,632
+[S] Er.. I mean.. I barely passed, it was like marginal board the line, but yeah I'd passed. And then came to the final exam.
+
+73
+00:02:39,630 --> 00:02:48,640
+[S] And I was so nervous, so so so nervous. I had to past in this exam to prove do this teacher that he actually did something.
+
+74
+00:02:48,912 --> 00:02:51,696
+[S] Ah.. But I was complete non confident on myself. No self confidence at all.
+
+75
+00:02:51,696 --> 00:02:52,400
+[L] Yeah.
+[S] Ah.. But I was complete non confident on myself. No self confidence at all.
+
+76
+00:02:52,400 --> 00:02:54,704
+[S] Ah.. But I was complete non confident on myself. No self confidence at all.
+
+77
+00:02:54,700 --> 00:02:58,880
+[S] And then what I did, I made a plan to cheat the exam.
+
+78
+00:02:58,880 --> 00:02:59,376
+[L] Uh-huh. Yeah..
+[S] And then what I did, I made a plan to cheat the exam.
+
+79
+00:02:59,376 --> 00:02:59,744
+[L] Uh-huh. Yeah..
+
+80
+00:02:59,744 --> 00:02:59,920
+[S] Er.. yeah I made some papers and put then on my sleeve, you know? With dates and numbers and names and so on.
+[L] Uh-huh. Yeah..
+
+81
+00:02:59,920 --> 00:03:02,784
+[S] Er.. yeah I made some papers and put then on my sleeve, you know? With dates and numbers and names and so on.
+
+82
+00:03:02,784 --> 00:03:03,728
+[L] <laughs>
+[S] Er.. yeah I made some papers and put then on my sleeve, you know? With dates and numbers and names and so on.
+
+83
+00:03:03,728 --> 00:03:07,104
+[S] Er.. yeah I made some papers and put then on my sleeve, you know? With dates and numbers and names and so on.
+
+84
+00:03:07,280 --> 00:03:13,904
+[S] And then I went to the exam. And as son as I finished the exam. It was like wow I fell really bad.
+
+85
+00:03:13,904 --> 00:03:14,688
+[L] <agrees>
+
+86
+00:03:14,688 --> 00:03:18,160
+[S] I felt so guilt, so so guilt for doing that. For breaking the trust of that guy, that one person I could connect.
+
+87
+00:03:18,160 --> 00:03:19,472
+[L] Um <agrees>
+[S] I felt so guilt, so so guilt for doing that. For breaking the trust of that guy, that one person I could connect.
+
+88
+00:03:19,472 --> 00:03:24,336
+[S] I felt so guilt, so so guilt for doing that. For breaking the trust of that guy, that one person I could connect.
+
+89
+00:03:24,330 --> 00:03:25,824
+[S] I'm handing the exam.
+
+90
+00:03:25,824 --> 00:03:26,112
+[L] Um.
+[S] I'm handing the exam.
+
+91
+00:03:26,112 --> 00:03:26,144
+[S] I'm handing the exam.
+
+92
+00:03:26,672 --> 00:03:33,851
+[S] And the teach was very happy. Very "yeah, It's great you did it, very <inaudible>!". Inside I was felling so destroyed.
+
+93
+00:03:33,851 --> 00:03:34,224
+[L] Uh-huh.
+[S] And the teach was very happy. Very "yeah, It's great you did it, very <inaudible>!". Inside I was felling so destroyed.
+
+94
+00:03:34,220 --> 00:03:34,480
+[S] I was felling so so so bad. Really like wow how can I do that? <inaudible> I'm the worst person on earth, you know?
+[L] Uh-huh.
+
+95
+00:03:34,480 --> 00:03:39,792
+[S] I was felling so so so bad. Really like wow how can I do that? <inaudible> I'm the worst person on earth, you know?
+
+96
+00:03:40,512 --> 00:03:42,433
+[S] And then I passed the exam.
+
+97
+00:03:42,430 --> 00:03:43,000
+[L] Yeah.
+
+98
+00:03:43,000 --> 00:03:43,033
+[S] Er.. I don't know.. I've never recovered. After that I never cheated anymore
+[L] Yeah.
+
+99
+00:03:43,033 --> 00:03:46,810
+[S] Er.. I don't know.. I've never recovered. After that I never cheated anymore
+
+100
+00:03:46,810 --> 00:03:50,820
+[S] It felt really bad and every time I think about it wow that was just a bad move.
+
+101
+00:03:50,820 --> 00:03:51,170
+[L] Uh-huh.
+[S] It felt really bad and every time I think about it wow that was just a bad move.
+
+102
+00:03:51,170 --> 00:03:51,210
+[S] It felt really bad and every time I think about it wow that was just a bad move.
+
+103
+00:03:51,310 --> 00:03:53,010
+[S] Really really bad, you know?
+
+104
+00:03:53,010 --> 00:03:55,380
+[S] <inaudible> weird <inaudible> yeah.
+
+105
+00:03:55,380 --> 00:03:55,760
+[L] Uh-huh.
+
+106
+00:03:55,760 --> 00:03:57,760
+[S] That's <inaudible> <laugh>
+

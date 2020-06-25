@@ -1,0 +1,543 @@
+﻿1
+00:00:00,000 --> 00:00:00,330
+[L] Hi
+[S] How you doing?
+
+2
+00:00:00,330 --> 00:00:00,600
+[S] How you doing?
+
+3
+00:00:00,840 --> 00:00:01,370
+[L] Good
+
+4
+00:00:01,370 --> 00:00:02,680
+[S] Do you like traveling?
+
+5
+00:00:03,310 --> 00:00:04,440
+[L] Yeah, I do
+
+6
+00:00:04,440 --> 00:00:05,910
+[S] Do you like air traveling?
+
+7
+00:00:06,660 --> 00:00:07,200
+[L] Depends
+
+8
+00:00:07,240 --> 00:00:07,840
+[L] <laughs>
+
+9
+00:00:07,840 --> 00:00:09,620
+[S] If it's a long travel or a short one?
+
+10
+00:00:10,110 --> 00:00:12,950
+[L] No it depends on the weather where we are landing..
+
+11
+00:00:12,950 --> 00:00:14,930
+[L] Hamburg is not good usually
+
+12
+00:00:14,930 --> 00:00:17,200
+[L] Landing here is not so fun
+
+13
+00:00:17,200 --> 00:00:17,220
+[L] <laughs>
+[L] Landing here is not so fun
+
+14
+00:00:17,220 --> 00:00:18,480
+[S] Ok
+[L] <laughs>
+
+15
+00:00:18,480 --> 00:00:18,510
+[S] I had a similar experience, but not landing, but going away
+[S] Ok
+
+16
+00:00:18,510 --> 00:00:21,660
+[S] I had a similar experience, but not landing, but going away
+
+17
+00:00:21,860 --> 00:00:26,330
+[S] Um, couple weeks ago I had to go to Brussels for a holiday and..
+
+18
+00:00:26,330 --> 00:00:30,730
+[S] I was looking a train and it takes a lot o time to go by train so..
+
+19
+00:00:30,730 --> 00:00:33,420
+[S] I thought I might take a fly that's normally expensive
+
+20
+00:00:33,420 --> 00:00:35,770
+[S] <inaudible>
+
+21
+00:00:35,770 --> 00:00:35,800
+[L] Uh-huh
+
+22
+00:00:35,800 --> 00:00:36,440
+[S] At the website I found this really cheap flight
+[L] Uh-huh
+
+23
+00:00:36,440 --> 00:00:38,110
+[S] At the website I found this really cheap flight
+
+24
+00:00:38,110 --> 00:00:39,480
+[S] That I could use
+
+25
+00:00:39,480 --> 00:00:46,550
+[S] So I took that one, and I booked that flight and I went to the airport, I was taking it at the end of the evening this kinda of flight is almost the last one of the day
+
+26
+00:00:46,550 --> 00:00:46,570
+[S] So when I reached the airport, was a bit rainy and a bit windy, so I thought that it might be delayed <inaudible> early..
+[S] So I took that one, and I booked that flight and I went to the airport, I was taking it at the end of the evening this kinda of flight is almost the last one of the day
+
+27
+00:00:46,570 --> 00:00:53,840
+[S] So when I reached the airport, was a bit rainy and a bit windy, so I thought that it might be delayed <inaudible> early..
+
+28
+00:00:53,840 --> 00:00:55,840
+[S] Took a lot of hours, actually
+
+29
+00:00:55,840 --> 00:00:59,660
+[S] And at last there was a huge huge queue for check-in
+
+30
+00:00:59,660 --> 00:01:05,260
+[S] Apparently, Uh, all the flights before ours were delayed because weather
+
+31
+00:01:05,260 --> 00:01:07,860
+[S] And there was a huge check-in queue and..
+
+32
+00:01:07,860 --> 00:01:12,311
+[S] Just at the airport.. I was waiting to many people at airport that normally doesn't have those many people there
+
+33
+00:01:12,777 --> 00:01:17,288
+[S] Um, this flight was reaching two hours early, I could barely manage to get to the boarding
+
+34
+00:01:17,280 --> 00:01:19,755
+[S] Because of the check-in, the security, it's just..
+
+35
+00:01:19,750 --> 00:01:20,977
+[S] Too many people
+
+36
+00:01:20,970 --> 00:01:23,355
+[S] And there were no systems do handle this many people
+
+37
+00:01:23,350 --> 00:01:24,088
+[L] Uh-huh
+
+38
+00:01:24,080 --> 00:01:26,466
+[S] So I reached at the gate at like..
+
+39
+00:01:26,460 --> 00:01:29,511
+[S] Two minutes or five minutes before the boarding closes
+
+40
+00:01:29,510 --> 00:01:32,155
+[S] They allowed me in but they were not very happy with that
+
+41
+00:01:32,150 --> 00:01:32,511
+[S] <breath>
+
+42
+00:01:32,510 --> 00:01:38,244
+[S] Um.. and you know that somehow these flights don't have these bridges to the plane then you have to go down and take the bus
+
+43
+00:01:38,244 --> 00:01:38,266
+[L] Yes
+[S] Um.. and you know that somehow these flights don't have these bridges to the plane then you have to go down and take the bus
+
+44
+00:01:38,266 --> 00:01:38,688
+[L] Yes
+
+45
+00:01:38,680 --> 00:01:39,933
+[S] I hate that
+
+46
+00:01:39,930 --> 00:01:42,044
+[S] I hate taking buses to the plane Um..
+
+47
+00:01:42,040 --> 00:01:45,533
+[S] It's just.. cramp there, it's like hurts getting into a..
+
+48
+00:01:45,530 --> 00:01:48,355
+[S] A vessel and then transporting to somewhere else
+
+49
+00:01:48,350 --> 00:01:49,711
+[S] So it's weird
+
+50
+00:01:49,710 --> 00:01:51,444
+[S] So we took the bus Uh..
+
+51
+00:01:51,444 --> 00:01:51,466
+[S] And went around the airport, eventually reached our plane
+[S] So we took the bus Uh..
+
+52
+00:01:51,466 --> 00:01:54,466
+[S] And went around the airport, eventually reached our plane
+
+53
+00:01:54,460 --> 00:01:59,400
+[S] And then I realized that is not a regular plane, was that a smaller propeller ones, like these really small ones <inaudible> or something
+
+54
+00:01:59,400 --> 00:01:59,955
+[L] Yeah
+[S] And then I realized that is not a regular plane, was that a smaller propeller ones, like these really small ones <inaudible> or something
+
+55
+00:01:59,955 --> 00:02:01,466
+[S] And then I realized that is not a regular plane, was that a smaller propeller ones, like these really small ones <inaudible> or something
+
+56
+00:02:01,822 --> 00:02:07,066
+[S] And I hate those planes, I had.. my worst plane experiences <inaudible> with propeller planes
+
+57
+00:02:07,060 --> 00:02:14,400
+[S] I think they were not equipped to handle bad weather for starters and they just don't work very well with that weather it's not ideal for them
+
+58
+00:02:14,400 --> 00:02:15,066
+[S] <breath>
+
+59
+00:02:15,060 --> 00:02:17,555
+[S] Bad then it was a little bit to late to me to say, I don't wanna travel
+
+60
+00:02:17,555 --> 00:02:18,422
+[L] <laughs>
+[S] Bad then it was a little bit to late to me to say, I don't wanna travel
+
+61
+00:02:18,420 --> 00:02:18,466
+[S] So I said, let's see how it goes
+[S] Bad then it was a little bit to late to me to say, I don't wanna travel
+
+62
+00:02:18,466 --> 00:02:21,377
+[S] So I said, let's see how it goes
+
+63
+00:02:21,370 --> 00:02:24,377
+[S] These guys were really pushing us because we were late or something..
+
+64
+00:02:24,440 --> 00:02:29,088
+[S] And they were just heading us to our seats, and them just said sit down we gonna start soon and everything..
+
+65
+00:02:29,088 --> 00:02:29,511
+[L] Uh-huh
+[S] And they were just heading us to our seats, and them just said sit down we gonna start soon and everything..
+
+66
+00:02:29,511 --> 00:02:29,622
+[S] And they were just heading us to our seats, and them just said sit down we gonna start soon and everything..
+
+67
+00:02:29,622 --> 00:02:29,666
+[S] And they were a bit rude, not very pleasant to <inaudible> 
+[S] And they were just heading us to our seats, and them just said sit down we gonna start soon and everything..
+
+68
+00:02:29,666 --> 00:02:33,666
+[S] And they were a bit rude, not very pleasant to <inaudible> 
+
+69
+00:02:33,660 --> 00:02:35,333
+[S] Um..
+
+70
+00:02:35,330 --> 00:02:43,177
+[S] So we were in ours seats, we were ready to fly and then this announcement that says, Hey we can not fly right now because well the flight control says..
+
+71
+00:02:43,170 --> 00:02:47,266
+[S] The weather is bad for take-off or something and then we are grounded for now..
+
+72
+00:02:47,260 --> 00:02:47,688
+[L] Uh-huh
+
+73
+00:02:47,680 --> 00:02:49,822
+[S] And we don't know how long it will take
+
+74
+00:02:49,820 --> 00:02:54,355
+[S] And at part of time I thought what the heck, why they hiding it from us in that point of time then..
+
+75
+00:02:54,350 --> 00:02:57,866
+[S] You must know this for some time given the other flights that <inaudible>
+
+76
+00:02:57,866 --> 00:02:59,860
+[S] And..
+
+77
+00:02:59,860 --> 00:03:04,955
+[S] <inaudible> We were the tarmac, waiting to take-off for one hour
+
+78
+00:03:04,950 --> 00:03:11,466
+[S] And this.. they don't even switch on the air conditioning or something in this plane, so we were just sitting there almost no oxygen then..
+
+79
+00:03:11,460 --> 00:03:14,177
+[S] Just crowded up in this really small place
+
+80
+00:03:14,170 --> 00:03:18,000
+[S] It was just Uh.. <breath> just too frustrating experience just..
+
+81
+00:03:18,000 --> 00:03:20,177
+[S] Even before the flight took-off..
+
+82
+00:03:21,822 --> 00:03:30,377
+[S] i admit it did take-off, we have a.. we.. we went to the runway and took-off, the took-off was a bit shaky wasn't the most ideal one
+
+83
+00:03:30,370 --> 00:03:33,666
+[S] Probably was too windy for then, to handle such a light plane
+
+84
+00:03:33,660 --> 00:03:37,800
+[S] Um, we climb up to this Uh.. cruising altitude and..
+
+85
+00:03:37,800 --> 00:03:43,488
+[S] Like all, what we do is lose a belt <inaudible> people want to use the lavatories
+
+86
+00:03:43,480 --> 00:03:45,955
+[S] Apparently they told us not we could do that..
+
+87
+00:03:45,950 --> 00:03:49,622
+[S] We can take off ours sit belts, because was turbulence all the time
+
+88
+00:03:49,620 --> 00:03:53,244
+[S] The plane started moving from left to right because it was to shaky 
+
+89
+00:03:53,240 --> 00:03:57,600
+[S] They stopped the use of the lavatories <inaudible> after some time
+
+90
+00:03:57,600 --> 00:04:02,466
+[S] Um, as we were stuck in our sit, the plane just shaking and.. Um..
+
+91
+00:04:02,460 --> 00:04:05,733
+[S] In my head I'm thinking what in the heck do I take this plane? I could've..
+
+92
+00:04:06,177 --> 00:04:08,511
+[S] Spend a little more money and actually save my life or.. and not having this experience
+
+93
+00:04:08,511 --> 00:04:09,333
+[L] <laughs>
+[S] Spend a little more money and actually save my life or.. and not having this experience
+
+94
+00:04:09,333 --> 00:04:10,955
+[S] Spend a little more money and actually save my life or.. and not having this experience
+
+95
+00:04:11,622 --> 00:04:15,555
+[S] Just when I was crossing my mind, it gets worst
+
+96
+00:04:15,555 --> 00:04:17,550
+[S] The lights go off, of the plane
+
+97
+00:04:17,550 --> 00:04:24,155
+[S] Apparently there was too much turbulence and then some systems just got damaged or flawed or something.. the lights go off..
+
+98
+00:04:24,150 --> 00:04:31,133
+[S] And.. it's lighting outside so we had these flashes of light coming in for us, seeming like a horror movie where..
+
+99
+00:04:31,130 --> 00:04:35,177
+[S] We were in a plane thousands of feet in the air and suddenly there is..
+
+100
+00:04:35,170 --> 00:04:35,333
+[S] There is no light there, there is light outside and..
+
+101
+00:04:35,333 --> 00:04:36,288
+[L] <laughs>
+[S] There is no light there, there is light outside and..
+
+102
+00:04:36,288 --> 00:04:38,377
+[S] There is no light there, there is light outside and..
+
+103
+00:04:38,600 --> 00:04:44,400
+[S] We started felling like the.. you know.. when the turbulence goes up the plane and forces <inaudible>
+
+104
+00:04:44,400 --> 00:04:48,644
+[S] At the end of this free falling (speed?) I feel like that
+
+105
+00:04:48,640 --> 00:04:52,488
+[S] Not just for momentary but for like.. Twenty seconds
+
+106
+00:04:52,480 --> 00:04:55,022
+[S] It's like it felt three hundred, for hundred feet
+
+107
+00:04:55,020 --> 00:05:02,600
+[S] And.. I have.. I had big issues with this claustrophobia.. the place already crowded up..
+
+108
+00:05:02,600 --> 00:05:04,355
+[S] I'm not feeling well anyway
+
+109
+00:05:04,355 --> 00:05:06,350
+[S] And now this happens
+
+110
+00:05:06,350 --> 00:05:10,600
+[S] And it doesn't stop it just keep going up and then falling really fast
+
+111
+00:05:10,600 --> 00:05:15,177
+[S] And going up and falling really fast, and in one point of time the oxygen masks dropped
+
+112
+00:05:15,170 --> 00:05:19,777
+[S] At that time.. I'm.. I'm gonna die it's my last flight ever
+
+113
+00:05:19,770 --> 00:05:20,133
+[L] <laughs>
+
+114
+00:05:20,130 --> 00:05:21,511
+[S] And it's not gonna go well
+
+115
+00:05:21,511 --> 00:05:23,510
+[S] And I don't know how to use these masks
+
+116
+00:05:23,510 --> 00:05:27,377
+[S] We never had this experience so the guys next to me kinda help me to put this on
+
+117
+00:05:27,370 --> 00:05:32,333
+[S] <inaudible> but then for the next fifteen, twenty minutes we were just doing this
+
+118
+00:05:32,330 --> 00:05:36,711
+[S] They will try to climb up the altitude and then fall again and do this again
+
+119
+00:05:37,488 --> 00:05:45,311
+[S] Terrible, terrible having a experience like we had, shaky plane Uh.. If I only think about that night, just so scared about it
+
+120
+00:05:45,866 --> 00:05:52,955
+[S] After go fifteen, twenty minutes, it kinda stabilized Uh.. Probably we were reaching our destination so they started to..
+
+121
+00:05:52,950 --> 00:05:57,200
+[S] The lights came on again.. We took off our masks and started the descent
+
+122
+00:05:57,200 --> 00:05:58,400
+[S] Um..
+
+123
+00:05:58,400 --> 00:06:06,111
+[S] Even the landing was bumping.. <inaudible> twice before it landed
+
+124
+00:06:06,480 --> 00:06:09,644
+[S] At that part I decided to myself, I will never gonna fly again
+
+125
+00:06:09,640 --> 00:06:15,977
+[S] At least not in <inaudible> I'm gonna make sure it's not a small plane, not a propeller one for sure no way I'm doing that
+
+126
+00:06:15,970 --> 00:06:19,711
+[S] I canceled my flight back because it probably would be the same plane
+
+127
+00:06:19,710 --> 00:06:25,333
+[S] Um.. I took the train, took me twice the time or three times of the time but at least I was safer
+
+128
+00:06:25,330 --> 00:06:31,600
+[S] Even now I think I would never Uh.. take night flight out of this place and..
+
+129
+00:06:31,600 --> 00:06:33,444
+[S] Especially if it's a propeller plane
+
+130
+00:06:33,440 --> 00:06:37,555
+[S] The first think I will know before to book any flight it's what plane it is, what time it's flying
+
+131
+00:06:37,550 --> 00:06:40,622
+[S] Before I can even think what is the price I've to pay for it
+
+132
+00:06:40,622 --> 00:06:42,620
+[S] It was just a annoying, annoying experience and a scary one
+

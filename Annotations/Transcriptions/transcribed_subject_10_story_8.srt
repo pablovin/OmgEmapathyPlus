@@ -1,0 +1,768 @@
+﻿1
+00:00:00,000 --> 00:00:01,520
+[S] Hi, how was your weekend?
+
+2
+00:00:01,520 --> 00:00:03,000
+[L] I'm very good, yeah, it was great
+
+3
+00:00:03,000 --> 00:00:03,600
+[S] Great
+[L] I'm very good, yeah, it was great
+
+4
+00:00:03,600 --> 00:00:06,440
+[S] Um, I went to Norway this weekend
+
+5
+00:00:06,440 --> 00:00:06,800
+[L] Norway?
+
+6
+00:00:06,800 --> 00:00:07,080
+[S] Ya, to visit a friend
+[L] Norway?
+
+7
+00:00:07,080 --> 00:00:07,490
+[S] Ya, to visit a friend
+
+8
+00:00:07,490 --> 00:00:07,970
+[L] Ok
+[S] Ya, to visit a friend
+
+9
+00:00:07,970 --> 00:00:08,320
+[S] Ya, to visit a friend
+
+10
+00:00:08,320 --> 00:00:09,060
+[L] Ok
+
+11
+00:00:09,060 --> 00:00:11,800
+[S] He is Um.. Living in Tromsø, have you heard the city? Tromsø..
+
+12
+00:00:11,800 --> 00:00:12,200
+[L] No.. Tromsø..
+[S] He is Um.. Living in Tromsø, have you heard the city? Tromsø..
+
+13
+00:00:12,200 --> 00:00:13,240
+[L] No.. Tromsø..
+
+14
+00:00:13,240 --> 00:00:14,600
+[S] Up north in the country
+
+15
+00:00:14,600 --> 00:00:15,080
+[L] Ok
+
+16
+00:00:15,080 --> 00:00:16,680
+[S] He was doing his Erasmus there so..
+
+17
+00:00:16,680 --> 00:00:18,060
+[S] <inaudible> and I was visiting him
+[L] Oh, ok, that's nice
+
+18
+00:00:18,060 --> 00:00:18,760
+[S] <inaudible> and I was visiting him
+
+19
+00:00:18,760 --> 00:00:19,140
+[L] Uh-huh
+
+20
+00:00:19,140 --> 00:00:21,060
+[S] So I went there for the weekend and Uh..
+
+21
+00:00:21,060 --> 00:00:21,720
+[S] Uh-huh
+[S] So I went there for the weekend and Uh..
+
+22
+00:00:21,720 --> 00:00:21,960
+[S] So I went there for the weekend and Uh..
+
+23
+00:00:21,960 --> 00:00:24,460
+[S] Yeah, well, it's kinda of a small city, so there is not a lot to do..
+
+24
+00:00:24,460 --> 00:00:25,120
+[L] Yeah
+[S] Yeah, well, it's kinda of a small city, so there is not a lot to do..
+
+25
+00:00:25,120 --> 00:00:25,640
+[S] Yeah, well, it's kinda of a small city, so there is not a lot to do..
+
+26
+00:00:25,640 --> 00:00:27,480
+[S] It's really cold in this period so you know..
+
+27
+00:00:27,480 --> 00:00:28,320
+[L] Ok
+[S] It's really cold in this period so you know..
+
+28
+00:00:28,320 --> 00:00:29,240
+[L] Uh-huh
+[S] And really expensive as well
+
+29
+00:00:29,240 --> 00:00:30,480
+[S] And really expensive as well
+
+30
+00:00:30,480 --> 00:00:30,760
+[S] So for a decent meal and some.. you know beer..
+[L] Ok
+
+31
+00:00:30,760 --> 00:00:33,960
+[S] So for a decent meal and some.. you know beer..
+
+32
+00:00:33,960 --> 00:00:35,340
+[S] You end up paying twenty five euros or so, it's not that good for students
+
+33
+00:00:35,340 --> 00:00:35,970
+[S] Really?
+[S] You end up paying twenty five euros or so, it's not that good for students
+
+34
+00:00:35,970 --> 00:00:37,090
+[S] You end up paying twenty five euros or so, it's not that good for students
+
+35
+00:00:37,090 --> 00:00:38,060
+[L] What in the hell?
+[S] You end up paying twenty five euros or so, it's not that good for students
+
+36
+00:00:38,060 --> 00:00:39,570
+[S] Yeah, you know, experience, my first time in a.. Scandinavian country
+[S] You end up paying twenty five euros or so, it's not that good for students
+
+37
+00:00:39,570 --> 00:00:42,760
+[S] Yeah, you know, experience, my first time in a.. Scandinavian country
+
+38
+00:00:42,760 --> 00:00:43,480
+[L] Yeah
+[S] Yeah, you know, experience, my first time in a.. Scandinavian country
+
+39
+00:00:43,480 --> 00:00:46,460
+[S] So we just went around the city.. Um..
+
+40
+00:00:46,460 --> 00:00:47,080
+[L] Yeah
+[S] So we just went around the city.. Um..
+
+41
+00:00:47,080 --> 00:00:52,360
+[S] Some pubs and so on.. Then he asked me if I've tried.. Have you heard this.. Um..
+
+42
+00:00:52,360 --> 00:00:56,600
+[S] This really smelly fish thing.. like.. This should be the smelliest food in the world
+
+43
+00:00:56,600 --> 00:00:57,400
+[L] Which one?
+
+44
+00:00:57,400 --> 00:01:02,840
+[S] Um.. I ain't remember the name in this.. well in any scandinavian language, it's like herring
+
+45
+00:01:02,840 --> 00:01:07,120
+[S] Which is.. you know.. fermented with salt, and it's supposed to be super smelly
+
+46
+00:01:07,120 --> 00:01:07,920
+[L] Ok
+
+47
+00:01:07,920 --> 00:01:09,080
+[L] Um.. don't
+[S] So there is some reaction videos on youtube of.. you know.. of the people when they smell or when they eat that
+
+48
+00:01:09,080 --> 00:01:10,740
+[S] So there is some reaction videos on youtube of.. you know.. of the people when they smell or when they eat that
+
+49
+00:01:10,740 --> 00:01:11,440
+[L] Ok
+[S] So there is some reaction videos on youtube of.. you know.. of the people when they smell or when they eat that
+
+50
+00:01:11,440 --> 00:01:14,000
+[S] So there is some reaction videos on youtube of.. you know.. of the people when they smell or when they eat that
+
+51
+00:01:14,000 --> 00:01:14,640
+[L] Ok
+
+52
+00:01:14,640 --> 00:01:17,000
+[S] And it's considered the smelliest food in the world
+
+53
+00:01:17,000 --> 00:01:17,600
+[L] Ok
+
+54
+00:01:17,600 --> 00:01:22,840
+[S] Um.. and then my friend told me that <inaudible> that thing that smells really bad it doesn't taste so bad
+
+55
+00:01:22,840 --> 00:01:23,720
+[L] Ok
+
+56
+00:01:23,720 --> 00:01:28,000
+[S] Which I was like.. Yeah.. I don't believe you so we made a bet that we should try it
+
+57
+00:01:28,000 --> 00:01:28,600
+[L] Uh-huh
+
+58
+00:01:28,600 --> 00:01:31,600
+[S] Um, so.. ok
+
+59
+00:01:31,600 --> 00:01:34,540
+[S] The thing is, I don't like fish in general, so..
+
+60
+00:01:34,540 --> 00:01:35,170
+[L] Ok
+[S] The thing is, I don't like fish in general, so..
+
+61
+00:01:35,170 --> 00:01:38,170
+[S] You know, I really think it's like tuna, so I was like.. Ok
+
+62
+00:01:38,170 --> 00:01:38,710
+[L] Ok
+
+63
+00:01:38,710 --> 00:01:40,080
+[S] So for me was a double challenge
+
+64
+00:01:40,080 --> 00:01:43,080
+[L] Yeah, of course..
+
+65
+00:01:43,080 --> 00:01:45,280
+[S] Ok, lets go, just do it, so we went to the supermarket..
+
+66
+00:01:45,280 --> 00:01:48,760
+[S] We got this can of, you know, this herring which I don't know the name and..
+
+67
+00:01:48,760 --> 00:01:49,140
+[L] Yeah
+
+68
+00:01:49,140 --> 00:01:52,660
+[S] They looked really like.. This thing is gonna taste so bad..
+
+69
+00:01:52,660 --> 00:01:53,540
+[L] Ok, haha..
+
+70
+00:01:53,560 --> 00:01:58,000
+[S] hm... Then we went back to our place, Um.. the thing is you're not supposed to eat this indoors..
+
+71
+00:01:58,000 --> 00:02:00,360
+[S] Because it's stinks so much that..
+
+72
+00:02:00,360 --> 00:02:01,000
+[L] Oh my god
+
+73
+00:02:01,000 --> 00:02:03,371
+[S] You're advised to open this when you're..
+
+74
+00:02:03,370 --> 00:02:04,160
+[L] In open air
+
+75
+00:02:04,160 --> 00:02:04,640
+[S] Yeah
+
+76
+00:02:04,640 --> 00:02:05,320
+[L] Ok
+
+77
+00:02:05,320 --> 00:02:08,320
+[S] So <inaudible> we went to.. this park
+
+78
+00:02:08,320 --> 00:02:10,200
+[S] Behind this place and Uh..
+
+79
+00:02:10,200 --> 00:02:11,280
+[S] <breath>
+
+80
+00:02:11,280 --> 00:02:14,520
+[S] Well, you know was the time of the truth to see..
+
+81
+00:02:14,520 --> 00:02:17,400
+[S] He was like.. He was all the time, don't worry.. it doesn't taste so bad just smells but..
+
+82
+00:02:17,400 --> 00:02:18,080
+[L] Ok
+[S] He was like.. He was all the time, don't worry.. it doesn't taste so bad just smells but..
+
+83
+00:02:18,080 --> 00:02:18,640
+[S] He was like.. He was all the time, don't worry.. it doesn't taste so bad just smells but..
+
+84
+00:02:18,640 --> 00:02:21,080
+[S] Once you get used to smell it's not so bad
+
+85
+00:02:21,080 --> 00:02:21,520
+[L] Ok
+
+86
+00:02:21,520 --> 00:02:24,440
+[S] Ok, so I, just, you know, opened the can and as soon as I opened..
+
+87
+00:02:24,440 --> 00:02:27,200
+[S] You know.. <inaudible> I just could feel this way off..
+
+88
+00:02:27,200 --> 00:02:28,240
+[L] Oh my god
+
+89
+00:02:28,240 --> 00:02:29,080
+[S] Disgusting fish smell into my fac,e almost hitting my face Uh..
+[L] <inaudible>
+
+90
+00:02:29,080 --> 00:02:30,457
+[S] Disgusting fish smell into my fac,e almost hitting my face Uh..
+
+91
+00:02:30,457 --> 00:02:31,000
+[L] Ok
+[S] Disgusting fish smell into my fac,e almost hitting my face Uh..
+
+92
+00:02:31,000 --> 00:02:32,114
+[S] Disgusting fish smell into my fac,e almost hitting my face Uh..
+
+93
+00:02:32,114 --> 00:02:32,640
+[L] Ok
+[S] Disgusting fish smell into my fac,e almost hitting my face Uh..
+
+94
+00:02:32,640 --> 00:02:34,142
+[S] So I was like, oh my god, I hate this..
+
+95
+00:02:34,142 --> 00:02:34,160
+[L] Uh-huh
+[S] So I was like, oh my god, I hate this..
+
+96
+00:02:34,160 --> 00:02:34,440
+[S] <breath> <inaudible>
+[L] Uh-huh
+[S] So I was like, oh my god, I hate this..
+
+97
+00:02:34,440 --> 00:02:34,720
+[L] Uh-huh
+[S] <breath> <inaudible>
+
+98
+00:02:34,720 --> 00:02:35,320
+[S] <breath> <inaudible>
+
+99
+00:02:35,320 --> 00:02:37,714
+[S] He was like.. no this smell is not that bad
+
+100
+00:02:37,710 --> 00:02:38,085
+[L] Ok
+
+101
+00:02:38,090 --> 00:02:39,742
+[S] It's gonna taste good, it's gonna taste good.. ok..
+
+102
+00:02:39,742 --> 00:02:40,360
+[L] Ok
+[S] It's gonna taste good, it's gonna taste good.. ok..
+
+103
+00:02:40,360 --> 00:02:41,640
+[S] <breath>
+
+104
+00:02:41,640 --> 00:02:46,720
+[S] So yeah.. so I.. you know, just opened and there is kinda of slices of this raw fish so.. I just..
+
+105
+00:02:47,114 --> 00:02:49,720
+[S] Took one slice of this..
+
+106
+00:02:49,720 --> 00:02:50,360
+[S] <breath>
+
+107
+00:02:50,360 --> 00:02:52,542
+[S] You know, was.. that would.. some oil and (wine?) you know.. this kinda of jello that ah.. terrible..
+
+108
+00:02:52,542 --> 00:02:53,320
+[L] Ah..
+[S] You know, was.. that would.. some oil and (wine?) you know.. this kinda of jello that ah.. terrible..
+
+109
+00:02:53,320 --> 00:02:53,714
+[S] You know, was.. that would.. some oil and (wine?) you know.. this kinda of jello that ah.. terrible..
+
+110
+00:02:53,714 --> 00:02:54,400
+[L] Yeah
+[S] You know, was.. that would.. some oil and (wine?) you know.. this kinda of jello that ah.. terrible..
+
+111
+00:02:54,400 --> 00:02:55,200
+[L] Uh-huh
+[S] You know, was.. that would.. some oil and (wine?) you know.. this kinda of jello that ah.. terrible..
+
+112
+00:02:55,200 --> 00:02:55,880
+[S] You know, was.. that would.. some oil and (wine?) you know.. this kinda of jello that ah.. terrible..
+
+113
+00:02:55,880 --> 00:02:56,720
+[S] So a terrible also the (hat pick?) experience was so bad..
+[L] Ok
+
+114
+00:02:56,720 --> 00:02:57,857
+[S] So a terrible also the (hat pick?) experience was so bad..
+
+115
+00:02:57,857 --> 00:02:58,400
+[L] Uh-huh
+[S] So a terrible also the (hat pick?) experience was so bad..
+
+116
+00:02:58,400 --> 00:02:59,980
+[S] So a terrible also the (hat pick?) experience was so bad..
+
+117
+00:02:59,980 --> 00:03:01,000
+[L] Yeah, Ok..
+[S] So a terrible also the (hat pick?) experience was so bad..
+
+118
+00:03:01,000 --> 00:03:01,257
+[S] Disgusting, so..
+
+119
+00:03:01,257 --> 00:03:01,742
+[L] Uh-huh
+[S] Disgusting, so..
+
+120
+00:03:01,742 --> 00:03:02,320
+[S] Disgusting, so..
+
+121
+00:03:02,320 --> 00:03:03,320
+[S] <breath>
+
+122
+00:03:03,320 --> 00:03:04,771
+[S] But you know.. the bet was on.. I hate losing bets..
+
+123
+00:03:04,771 --> 00:03:05,480
+[L] Hmm
+[S] But you know.. the bet was on.. I hate losing bets..
+
+124
+00:03:05,480 --> 00:03:05,840
+[S] But you know.. the bet was on.. I hate losing bets..
+
+125
+00:03:05,840 --> 00:03:06,257
+[L] Yeah
+
+126
+00:03:06,257 --> 00:03:06,600
+[S] So, just went for it
+[L] Yeah
+
+127
+00:03:06,600 --> 00:03:08,040
+[L] So you.. went for it
+[S] So, just went for it
+
+128
+00:03:08,040 --> 00:03:08,360
+[S] So, just went for it
+
+129
+00:03:08,360 --> 00:03:11,440
+[S] Um, I tried to get a bite, but I couldn't, like..
+
+130
+00:03:11,440 --> 00:03:14,085
+[S] As soon I approached this slice of fish tuna
+
+131
+00:03:14,085 --> 00:03:14,440
+[L] Yeah
+[S] As soon I approached this slice of fish tuna
+
+132
+00:03:14,440 --> 00:03:15,640
+[S] I was like, can I even break?
+
+133
+00:03:15,640 --> 00:03:16,600
+[S] <breath>
+[L] Uh-huh
+
+134
+00:03:16,600 --> 00:03:21,040
+[S] Um, then I looked back at my friend and he was, you know, trying to bite it..
+
+135
+00:03:21,040 --> 00:03:21,828
+[S] But he was I little bit crying, I could see tears from his eyes like..
+
+136
+00:03:21,828 --> 00:03:23,200
+[L] <laughs>
+[S] But he was I little bit crying, I could see tears from his eyes like..
+
+137
+00:03:23,200 --> 00:03:23,760
+[L] (Shit?)
+[S] But he was I little bit crying, I could see tears from his eyes like..
+
+138
+00:03:23,760 --> 00:03:23,840
+[S] Oh, it's not that bad..
+[L] (Shit?)
+
+139
+00:03:23,840 --> 00:03:25,171
+[S] Oh, it's not that bad..
+
+140
+00:03:25,171 --> 00:03:25,640
+[L] Ok
+[S] Oh, it's not that bad..
+
+141
+00:03:25,640 --> 00:03:30,960
+[S] I was like, oh my god, it's gonna taste so bad, he was lying to me, this is terrible, but you know, I was like, ok..
+
+142
+00:03:30,960 --> 00:03:31,514
+[S] <breath>
+
+143
+00:03:31,510 --> 00:03:31,920
+[L] Yeah
+
+144
+00:03:31,920 --> 00:03:34,920
+[S] Doesn't matter.. and.. well.. the thing is he then..
+
+145
+00:03:34,920 --> 00:03:39,980
+[S] He gave it a bite, and really you could see it, his face was so much like..
+
+146
+00:03:39,980 --> 00:03:41,760
+[S] Who was kinda in pain
+
+147
+00:03:41,760 --> 00:03:43,600
+[S] <breath>
+[L] Oh my god <inaudible> Uh..
+
+148
+00:03:43,600 --> 00:03:49,040
+[S] So I decided to do the only thing that I could do just take that as a medicine so you know I just..
+
+149
+00:03:49,040 --> 00:03:49,400
+[S] <inaudible> in my mouth
+
+150
+00:03:49,400 --> 00:03:51,600
+[L] Oh <laughs>
+[S] <inaudible> in my mouth
+
+151
+00:03:51,600 --> 00:03:52,840
+[L] Oh shit
+
+152
+00:03:52,840 --> 00:03:57,320
+[S] But as soon as I could really taste that.. I just..
+
+153
+00:03:57,320 --> 00:03:59,980
+[S] Threw the whole thing to the ground, was just to much.. I was like..
+
+154
+00:03:59,980 --> 00:04:00,720
+[L] Oh my god
+[S] Threw the whole thing to the ground, was just to much.. I was like..
+
+155
+00:04:00,720 --> 00:04:01,800
+[S] Was a (mix?)
+
+156
+00:04:01,800 --> 00:04:03,840
+[L] So the taste was not good at all..
+
+157
+00:04:03,840 --> 00:04:04,680
+[S] Was terrible
+
+158
+00:04:04,680 --> 00:04:05,080
+[L] Ok
+[S] Was just <inaudible> since I don't like fish I can't guess if the taste was even worst than the smell was..
+
+159
+00:04:05,080 --> 00:04:09,057
+[S] Was just <inaudible> since I don't like fish I can't guess if the taste was even worst than the smell was..
+
+160
+00:04:09,057 --> 00:04:09,800
+[L] Yeah, of course
+[S] Was just <inaudible> since I don't like fish I can't guess if the taste was even worst than the smell was..
+
+161
+00:04:09,800 --> 00:04:10,200
+[S] Everything was bad, the smell, the texture, the taste, was terrible..
+[L] Yeah, of course
+
+162
+00:04:10,200 --> 00:04:14,360
+[S] Everything was bad, the smell, the texture, the taste, was terrible..
+
+163
+00:04:14,360 --> 00:04:16,514
+[S] And he was like, yeah, it's not that bad, he could just.. had a bite.. actually
+
+164
+00:04:16,514 --> 00:04:17,280
+[L] <laughs>
+[S] And he was like, yeah, it's not that bad, he could just.. had a bite.. actually
+
+165
+00:04:17,280 --> 00:04:19,120
+[S] And he was like, yeah, it's not that bad, he could just.. had a bite.. actually
+
+166
+00:04:19,120 --> 00:04:19,571
+[L] Yeah
+
+167
+00:04:19,570 --> 00:04:23,371
+[S] And then he stopped,  but seems he actually ate that piece.. And I didn't..
+
+168
+00:04:23,371 --> 00:04:24,880
+[L] Yes, he won
+[S] And then he stopped,  but seems he actually ate that piece.. And I didn't..
+
+169
+00:04:24,880 --> 00:04:27,880
+[L] Yes, he won
+
+170
+00:04:27,880 --> 00:04:31,240
+[S] Which, you know, drove me up, this.. Uh..
+
+171
+00:04:31,240 --> 00:04:34,760
+[S] Time that I went to Beijing to have this smelly tofu thing..
+
+172
+00:04:34,760 --> 00:04:35,480
+[L] Oh..
+
+173
+00:04:35,480 --> 00:04:39,320
+[S] Which was something.. not so bad like this.. smelly tofu in Beijing but..
+
+174
+00:04:39,320 --> 00:04:41,960
+[S] <breath> almost there.. Yeah, so basically Um..
+
+175
+00:04:41,960 --> 00:04:44,960
+[S] My holiday in Norway was at all great
+
+176
+00:04:44,960 --> 00:04:45,628
+[L] Um.. uh-huh
+
+177
+00:04:45,628 --> 00:04:46,440
+[S] This is the kinda of thing that I will not forget so easily
+[L] Um.. uh-huh
+
+178
+00:04:46,440 --> 00:04:49,240
+[S] This is the kinda of thing that I will not forget so easily
+
+179
+00:04:49,240 --> 00:04:49,920
+[L] Yeah <inaudible>
+
