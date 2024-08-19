@@ -1,6 +1,6 @@
 # OMG Empathy Dataset
 
-- Barros, P., Churamani, N., Lim, A., & Wermter, S. (2019, September). The omg-empathy dataset: Evaluating the impact of affective behavior in storytelling. In 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-7). IEEE. (Paper)[https://ieeexplore.ieee.org/iel7/8911251/8925431/08925530.pdf?casa_token=BBIZcgX6KPUAAAAA:OORp45zW8gcbWmKWiNUTAvDXyVohX3XmVGLA_UUD4LKSxbbyio4Mmv6Qc5ks4_WZlNbbiiROIe8]
+- Barros, P., Churamani, N., Lim, A., & Wermter, S. (2019, September). The omg-empathy dataset: Evaluating the impact of affective behavior in storytelling. In 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-7). IEEE. [Paper](https://ieeexplore.ieee.org/iel7/8911251/8925431/08925530.pdf?casa_token=BBIZcgX6KPUAAAAA:OORp45zW8gcbWmKWiNUTAvDXyVohX3XmVGLA_UUD4LKSxbbyio4Mmv6Qc5ks4_WZlNbbiiROIe8)
 
 The OMG-Empathy corpus is composed of recordings of two individuals talking to each other about a certain topic. One of the individuals is an actor who leads a semi-scripted conversation with a listener. The actors tells stories about what happened to them recently, and we recorded the reactions of the listener to these stories over time, which can contain short interactions.
 
