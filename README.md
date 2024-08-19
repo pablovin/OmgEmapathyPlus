@@ -1,6 +1,12 @@
 # OMG Empathy Dataset
 
-- Barros, P., Churamani, N., Lim, A., & Wermter, S. (2019, September). The omg-empathy dataset: Evaluating the impact of affective behavior in storytelling. In 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-7). IEEE. [Paper](https://ieeexplore.ieee.org/iel7/8911251/8925431/08925530.pdf?casa_token=BBIZcgX6KPUAAAAA:OORp45zW8gcbWmKWiNUTAvDXyVohX3XmVGLA_UUD4LKSxbbyio4Mmv6Qc5ks4_WZlNbbiiROIe8)
+![OMG Empathy Banner](imgs/OmgEmpathy.png)
+
+The ability to perceive, understand and respond to social interactions in a human-like manner is one of the most desired capabilities in artificial agents, particularly social robots. These skills are highly complex and require focus on several different aspects of research, including affective understanding. An agent which is able to recognize, understand and, most importantly, adapt to different human affective behaviors can increase its own social capabilities by being able to interact and communicate in a natural way.
+
+The One-Minute Gradual Empathy datasets (OMG-Empathy) contain multi-modal recordings of different individuals discussing predefined topics. One of them, the actor, shares a story about themselves while the other, the listener, reacts to it emotionally. We annotated each interaction based on the listener's own assessment on how they felt while the interaction was taking place.
+
+**What do we mean with Empathy?**
 
 The OMG-Empathy corpus is composed of recordings of two individuals talking to each other about a certain topic. One of the individuals is an actor who leads a semi-scripted conversation with a listener. The actors tells stories about what happened to them recently, and we recorded the reactions of the listener to these stories over time, which can contain short interactions.
 
@@ -15,6 +21,8 @@ We created a series of eight topics that the actor talked about, each of them re
 - Story 7 - I won a martial arts challenge.
 - Story 8 - I ate a very bad food.
 
+![OMG Scenario Example](imgs/scenario.png)
+
 The actor was free and encouraged to improvise on each of these topics, so that we recorded a natural conversation scenario, but the actor was instructed to maintain the control over the conversation. This way, we guaranteed that the recorded interaction were not one-sided, and at the same time that the listener did not overtake the direction of the conversation.
 
 We recorded the audio and visual data of both the actor and listener for each interaction. Immediately after each session, we asked the listeners to watch the interactions on a computer screen and use a joystick to annotate how they felt in terms of valence using a continuous scale ranging from positive to negative values. The use of the joystick allowed for continuous and gradual tracking of annotations which are temporally related to the interaction scenario.
@@ -23,6 +31,8 @@ We used a total of four different actors, each one of them taking part in the co
 
 **Data Annotations**
  
+ ![Annotation Tool](imgs/Annotation.png)
+
  We provide here four sets of annotations:
  - SelfAnnotation - The traditional and standard annotation set. After every story scenario, the listeners were asked to annotated, in a continuous valence scale [0,1] how the story impacted them. For that, they re-watched the video of the scenario, and annotated their valence using a joystick. This allows for a continuous annotation of valence.
  - Listener (Third Party) - Once all the story scenarios were collected, we asked a third party viewer to annotate all the perceived valence, in a scale of [0,1] of the listener, by watching the videos and using a joystick for continual annotation.
@@ -41,7 +51,7 @@ The **Generalized Empathy track**, where the teams must predict the general beha
 **OMG Empathy Challenge**
  In 2019, we organized a challenge to foster the development of community-based solutions for each of the proposed tracks.
  
-More information, please visit the (Challenge Website)[https://github.com/knowledgetechnologyuhh/OMGEmpathyChallenge]
+More information, please visit the [Challenge Website](https://github.com/knowledgetechnologyuhh/OMGEmpathyChallenge)
 
 
 **Dataset Structure**
@@ -86,4 +96,4 @@ We also whant to thank all the help on the data annotations and transcripts from
 
 **Reference paper**
 
- - Barros, P., Churamani, N., Lim, A., & Wermter, S. (2019, September). The omg-empathy dataset: Evaluating the impact of affective behavior in storytelling. In 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-7). IEEE. https://arxiv.org/abs/1908.11706
+ - - Barros, P., Churamani, N., Lim, A., & Wermter, S. (2019, September). The omg-empathy dataset: Evaluating the impact of affective behavior in storytelling. In 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-7). IEEE. [Paper](https://arxiv.org/abs/1908.11706)
