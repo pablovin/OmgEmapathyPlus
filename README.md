@@ -41,6 +41,8 @@ We used a total of four different actors, each one of them taking part in the co
 
 **Evaluation Protocol**
 
+![Annotation Tool](imgs/StoryAnnotation.png)
+
 As a standard evaluation task, we created a pre-defined set of training, validation and testing samples. We separate our samples based on each story: 4 stories for training, 1 for validation and 3 for testing. Each story sample is composed of 10 videos with interactions, one for each listener. Although using the same training, validation and testing data split, we propose two tracks which will measure different aspects of the self-assessed empathy:
 
 The **Personalized Empathy track**, where each team must predict the empathy of a specific person. We will evaluate the ability of proposed models to learn the empathic behavior of each of the subjects over a newly perceived story. We encourage the teams to develop models which take into consideration the individual behavior of each subject in the training data.
